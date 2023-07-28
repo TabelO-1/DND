@@ -19,7 +19,7 @@ Part Two - Kuiper Belt:
 
 By whatever route the players picked, they will end up in the Kuiper Belt, where they will meet with a faction(their faction or another if they wished)
 
-They will do missions that help a faction(or multiple) and gain influence points(hidden from players) with that faction. Missions will either strengthen a faction or hurt another(or sometimes both(Actualy strength will be hidden from players)).
+They will do missions that help a faction(or multiple) and gain Reputation points(hidden from players) with that faction. Missions will either strengthen a faction or hurt another(or sometimes both(Actualy strength will be hidden from players)).
 Once they have done enough objectives to gain enough strength for a faction they will get a mission on earth to sabatoge a meeting of factions
 
 Part Three - Meeting of Factions:

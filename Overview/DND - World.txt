@@ -7,6 +7,12 @@ The World the Campaign Inhabits
    3. Conflicts
 Limited From Venus to The Kuiper Belt
 
+Details:
+1. Within their own solar system.
+2. DND World but advanced to early space age. Magic not as common with technology more previlant. All classes and races allowed.
+
+
+
 Venus: 
 Description: Earth's Closest Next Door Neighbor, this planet is home to a major orbital station(ie colony), an array of smaller orbital stations(Mining Stations, Small Colonies, Privately Owned Stations). On the planet are spread out protection zones, ultizing expiremental shielding technology to provide mining zones and gas collectors protection.
 Visitable Places:
@@ -25,3 +31,9 @@ Zones: Kuiper Adminstrative Station
 
 Earth Meeting Chamber:
 Zones: Meeting Chamber, Guest Chambers, Electrical Systems
+
+Others(TBD):
+Luna(Government HQ)
+Mars
+Earth: Earth's Environmental Crisis went to fruitition leaving the planet to be a terrible place to live on. Life expectancy is low. The rich left the planet for space station's and other stellar colonies. Only recently has a few zones that still have nature been protected by expiremental shielding technology.
+One of three: Jupiter, Saturn, Uranus
