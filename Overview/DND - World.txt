@@ -1,0 +1,27 @@
+The World the Campaign Inhabits
+   1. Factions(Each Enemy class must be counterable by all classes)
+	  1. Enemies
+	  2. Neutrals
+	  3. Allies
+   2. Places
+   3. Conflicts
+Limited From Venus to The Kuiper Belt
+
+Venus: 
+Description: Earth's Closest Next Door Neighbor, this planet is home to a major orbital station(ie colony), an array of smaller orbital stations(Mining Stations, Small Colonies, Privately Owned Stations). On the planet are spread out protection zones, ultizing expiremental shielding technology to provide mining zones and gas collectors protection.
+Visitable Places:
+
+Venus I Major Orbital Station:
+Population: 15k
+Factions: Venus Conglomerate(Station Owner), Miners, The Government, Pirates/Blackmarketists
+Economic Production: Trade from minerals and gasses producted from protection zones.
+Zones: Landing Platform, Merchant Sector, Housing Sector, Adminstrative Center. Protected Zones.
+
+Kuiper Belt:
+Population: 1k
+Factions: Venus Conglomerate, AstroCorp, Miners, Government, Pirates
+Economic Production: Trade from minerals
+Zones: Kuiper Adminstrative Station
+
+Earth Meeting Chamber:
+Zones: Meeting Chamber, Guest Chambers, Electrical Systems

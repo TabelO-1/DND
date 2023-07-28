@@ -1,0 +1,35 @@
+Influence: Tells you how much a faction likes you. Different influence levels result in different interactions between players and factions.
+1: Hostile
+2: Unfriendly
+3-5. Neutral
+6-8. Friendly
+9-10. Cordial
+11+. Allies
+Kuiper Belt Strength: How strong a faction's position is in the Kuiper Belt. Divided between factions. 15 Total Strength. A faction needs 10 Strength to be dominant in strength. 15/15 Strength Used
+
+Factions:
+
+AstroCorp
+Description: AstroCorp is a small corporation trying to make their way through the galaxy, because they aren't well established their not seen as the most trustworthy.
+Player Influence: 6
+Kuiper Strength: 4
+
+Venus Conglomerate(Rival Corporation)
+Description: Venus Conglomerate was the first Corporation to not have it's headquarters on Earth. As it controls nearly the entirety of Venus, it's power is very large among the corporations and at times even surpasses the Government.
+Player Influence: 4
+Kuiper Strength: 6
+
+The Miners
+Description: Miners who work under terrible conditions and get little pay. They have united into a faction to advocate for themselves.
+Player Influence: 5
+Kuiper Strength: 1
+
+The Government
+Description: Earth Government that is in charge of human control territories, or atleast that's the facade they project. The corporations can often squeeze by and the law isn't often enforced.
+Player Influence: 4
+Kuiper Strength: 3
+
+Marauders
+Description: There will always be Rouges and criminals. This is the most recent iteration of such.
+Player Influence: 1
+Kuiper Strength: 1
