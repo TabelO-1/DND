@@ -23,6 +23,6 @@ Irrelevant
 1 Elite, 2 Pistol, 1 Unarmed
 
 Allies:
-1. 5 Allies with pistols
+1. 5 Allies with pistols, same stats.
 
 Point: Need to override security to get out.
