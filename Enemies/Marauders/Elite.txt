@@ -1,0 +1,13 @@
+Health: 8
+Weapon: Pistol x2
+1d6+dex
+To hit: d20
+Armor Class: 12
+
+Stats:
+Strength 10(0)
+Dexerity 14(+2)
+Constituion 12(+1)
+Intelligence 10(0)
+Wisdom 10(0)
+Charisma 12(+1)

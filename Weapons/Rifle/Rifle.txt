@@ -1,0 +1,9 @@
+Attack type: Natural
+Ranged
+Stat: Dexerity
+1d8
+Damage Type: Piercing
+Save Type: Constituion
+Range 40
+Long Range 60
+Display as attack
