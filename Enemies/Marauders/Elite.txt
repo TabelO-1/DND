@@ -1,7 +1,8 @@
 Health: 8
 Weapon: Pistol x2
 1d6+dex
-Armor Class: 10
+To hit: d20
+Armor Class: 12
 
 Stats:
 Strength 10(0)
