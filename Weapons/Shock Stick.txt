@@ -1,0 +1,7 @@
+Attack type: Natural
+Melee
+Stat: N/A
+1d4
+Damage Type: Lightning
+Save Type: Strength
+Display as attack
