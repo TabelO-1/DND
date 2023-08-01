@@ -1,12 +1,7 @@
-# Marauder Rifle(Lvl1):
+# Dwarf(Lvl1):
 
- * Race: Dwarf
- * Health: 10
+ * Health: Base 8+2(Con)
  * Armor Class: 11
- * Weapon: Rifle
-    - 40-60 Foot Range
-    - Damage: 1d8+1(dex) Piercing
-    - To hit: d20+1(dex)
  * Stats:
     - Strength 12(+1)
     - Dexerity 12(+1)
