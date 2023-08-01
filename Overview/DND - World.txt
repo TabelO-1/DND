@@ -27,7 +27,7 @@ Kuiper Belt:
 Population: 1k
 Factions: Venus Conglomerate, AstroCorp, Miners, Government, Pirates
 Economic Production: Trade from minerals
-Zones: Kuiper Adminstrative Station
+Zones: Kuiper Station North, Kuiper Station East, Kuiper Station South, Kuiper Station West
 
 Earth Meeting Chamber:
 Zones: Meeting Chamber, Guest Chambers, Electrical Systems
