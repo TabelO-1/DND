@@ -1,12 +1,7 @@
-# Unarmed Marauder(Lvl1):
+# Human(Lvl1):
 
- * Race: Human
- * Health: 6
+ * Health: Base 7+1(Con)
  * Armor Class: 11
- * Weapon: Unarmed attack:
-    - 5 foot reach
-    - Damage: 1+1(str)
-    - To hit: 2+1(str)
  * Stats:
     - Strength 12(+1)
     - Dexerity 12(+1)

@@ -13,4 +13,4 @@
     - Constituion 12(+1)
     - Intelligence 10(0)
     - Wisdom 12(+1)
-    - Charisma 12(+1)
+    - Charisma 10(0)
