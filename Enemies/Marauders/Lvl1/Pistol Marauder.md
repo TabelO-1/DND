@@ -3,7 +3,7 @@
  * Race: Human
  * Health: 8
  * Armor Class: 11
- * Weapon: Pistol
+ * Weapon: Field Survival Pistol
     - 20-35 Foot Range
     - Damage: 1d6+1(dex) Piercing
     - To hit: d20+1(dex)

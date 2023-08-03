@@ -1,0 +1,10 @@
+Attack type: Natural
+Ranged
+Stat: Dexerity
+1d6+dex
+Damage Type: Piercing
+Save Type: Constituion
+Range 20
+Long Range 35
+Display as attack
+Lore: A simple survival pistol meant to be used as a simple survival tool.

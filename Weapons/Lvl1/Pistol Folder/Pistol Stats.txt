@@ -1,5 +1,0 @@
-1d6+dex
-d20 to hit
-
-Take one turn to aim and gain +3 advantage to hit and the next turn fire
-Fire immediately for normal roll.

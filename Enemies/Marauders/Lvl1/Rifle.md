@@ -3,7 +3,7 @@
  * Race: Dwarf
  * Health: 10
  * Armor Class: 11
- * Weapon: Rifle
+ * Weapon: Field Survival Rifle
     - 40-60 Foot Range
     - Damage: 1d8+1(dex) Piercing
     - To hit: d20+1(dex)
