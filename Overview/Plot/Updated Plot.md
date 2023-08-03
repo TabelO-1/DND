@@ -26,12 +26,12 @@ ___
 ___
 **`Part IV`**: Mysterious Disapearances
  * `Section 0`: Receive Rumors about disapearances and a haunted place throughout PIII.
- * `Section I`: Finally do enough quests to receive a request from *to be determined* to find the end of the disapearances.
+ * `Section I`: Finally do enough quests to receive a request from *to be determined* to find what is causing the disappearances.
  * `Section II`: Do some investigation, Travel to the West Station
  * `Section III`: Discover Destruction, Two Paths: `Land on the Station` or `Space Craft Investigation`.
  * `Section IIIa`: Station Landing: Land on the and discover what happened to the Station. Garbled Transmission.
  * `Section IIIb`: Space Craft Investigation: Investigate the *whatever the cat leaves behind* with your craft.
- * `Section IV`: Find the Mother Cat. Make a choice: to kill or to assist it. This option affects Part VI.
+ * `Section IV`: Find the Mother AstroCat. Make a choice: to kill or to assist it. This choice affects Part VI.
 ___
 **`Part V`**: Other Planet's Quests
  * `Section I`: 

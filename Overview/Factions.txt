@@ -10,6 +10,7 @@ Kuiper Belt Strength: How strong a faction's position is in the Kuiper Belt. Div
 Factions:
 
 AstroCorp
+Mascot: AstroCat
 Description: AstroCorp is a small corporation trying to make their way through the galaxy, because they aren't well established their not seen as the most trustworthy.
 Player Reputation: 6
 Kuiper Strength: 4
