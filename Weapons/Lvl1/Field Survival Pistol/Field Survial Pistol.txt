@@ -7,4 +7,5 @@ Save Type: Constituion
 Range 20
 Long Range 35
 Display as attack
+Value: 100 Credits
 Lore: A simple survival pistol meant to be used as a simple survival tool.
