@@ -1,4 +1,4 @@
-# Unarmed Marauder:
+# Unarmed Human:
 
  * Race: Human
  * Health: 6

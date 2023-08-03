@@ -3,7 +3,7 @@
  * Race: Elf
  * Health: 10
  * Armor Class: 12
- * Weapon: Pistol(Dual Wielding)
+ * Weapon: Field Survival Pistol(Dual Wielding)
     - 20-35 Foot Range
     - Damage: 1d6+1(dex) Piercing
     - To hit: d20+2(dex)-2(disadvantage from duel wielding)
