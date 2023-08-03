@@ -5,5 +5,6 @@ Stat: N/A
 Damage Type: Lightning
 Save Type: Strength
 Special Effect: 1d4 to stun for 2 turns
-Value: 200 Credits
 Display as attack
+Value: 200 Credits
+Lore: A small stick that shocks anything it comes into contact with.
