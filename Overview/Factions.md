@@ -11,7 +11,7 @@ Factions:
 
 AstroCorp
 Mascot: AstroCat
-Description: AstroCorp is a small corporation trying to make their way through the galaxy, because they aren't well established their not seen as the most trustworthy.
+Description: 
 Player Reputation: 6
 Kuiper Strength: 4
 

@@ -3,21 +3,20 @@
 ## Straightforward Route: Go to the Kuiper Belt and secure control for your faction.
 
 **`Part 0`**: Escape Marauder Station
- * `Section 1`: Escape the Marauder Station and `Pledge LoyaLty` or `be imprisoned`.
+ * `Section I`: Escape the Marauder Station and `Pledge LoyaLty` or `be imprisoned`.
 ___
 **`Part I`**: Quest to get off Venus I Orbital Colony
 
 * `Section 0`: Escape Imprisonment(Only if refused offer)
-* `Section 1`: Exploration/Mission Time(To either gain money, or to support a faction)
-* `Section 2`: Getting a Craft: Next Location!(Cannot go directly to Kuiper)
-
+* `Section I`: Exploration/Mission Time(To either gain money, or to support a faction)
+* `Section II`: Getting a Craft: Next Location!(Cannot go directly to Kuiper)
 ___
 **`Part II`**: Make it to the Kuiper Belt
 
  * `Section 0`: Planet Choice(Also determined if you support a faction)
- * `Section 1`: Ship stolen! Where did it go?
- * `Section 2`: Locating the ship
- * `Section 3`: Getting Kuiper Jump-Gate Coordinates.
+ * `Section I`: Ship stolen! Where did it go?
+ * `Section II`: Locating the ship
+ * `Section III`: Getting Kuiper Jump-Gate Coordinates.
 ___
 **`Part III`**: Arrival: Faction Quests
  * `Section 0`: Which Kuiper Gate to Jump to?
