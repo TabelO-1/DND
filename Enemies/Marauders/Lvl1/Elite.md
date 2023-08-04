@@ -7,6 +7,7 @@
     - 20-35 Foot Range
     - Damage: 1d6+1(dex) Piercing
     - To hit: d20+2(dex)-2(disadvantage from duel wielding)
+ * Special Action:
  * Stats:
     - Strength 10(0)
     - Dexerity 14(+2)
