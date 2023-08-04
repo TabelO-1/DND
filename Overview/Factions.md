@@ -11,7 +11,7 @@ Factions:
 
 AstroCorp
 Mascot: AstroCat
-Description: 
+Description: After the SpaceX's Mars Mission failed after their jump-gate was taken out by colonization vessel 21, SpaceX mostly fell apart. Now 150 years after words, what was left of SpaceX reformed into AstroCorp, a relatively sucessful, yet still smaller, corporation.
 Player Reputation: 6
 Kuiper Strength: 4
 
