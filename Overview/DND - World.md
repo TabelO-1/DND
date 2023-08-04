@@ -32,6 +32,13 @@ Zones: Kuiper Station North, Kuiper Station East, Kuiper Station South, Kuiper S
 Earth Meeting Chamber:
 Zones: Meeting Chamber, Guest Chambers, Electrical Systems
 
+Mars:
+Population: 10 Million
+Factions: Government, AstroCorp
+
+
+
+
 Others(TBD):
 Luna(Government HQ)
 Mars
