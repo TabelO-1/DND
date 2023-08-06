@@ -20,6 +20,9 @@
  Dax's Request:
  Short-range teleportation device(limit 100 feet)
 
+ Tyler's Request:
+ A ring that allows his character to absorb 1 stat from the enemies' highest stat point at the cost of pernamently losing a health point.
+
  Other Requests:
  Astrocat hailing from Venus? Limbs replaced with "vents"(its basically a hover cat)
  
