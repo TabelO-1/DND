@@ -10,7 +10,7 @@
  - Gain expertise and +2 into Technology
 6. Scientist
  - Types: 
-    - Researcher: Gain proficency and +1 to Technology and Insight
-    - Professor: Gain proficency and +1 to History and Insight
+    - Researcher: Gain proficiency and +1 to Technology and Insight
+    - Professor: Gain proficiency and +1 to History and Insight
 7. Adminstrator
  - Gain +1 Charisma, Wisdom, Intelligence
