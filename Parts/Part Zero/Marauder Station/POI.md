@@ -26,3 +26,19 @@ Allies:
 1. 5 Allies with pistols, same stats.
 
 Point: Need to override security to get out.
+
+New POIs:
+1. A console in th cell room that can open the door to the guard's room
+2. A table and chairs with a card came known as paazak. If they investigate they will discover 200 credits
+3. Lockers containing the prisoner's artifacts
+4. Storage Bin
+5. 
+6. 
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
