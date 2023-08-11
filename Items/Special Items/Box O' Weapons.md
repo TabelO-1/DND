@@ -22,5 +22,5 @@ Lore: A box that has a button on it. Pressing it gives a random weapon
 16.
 17.
 18.
-19.
+19. Legendary Potato Cannon
 20. You gain a legendary enchanted sword. Tell bryson to play "Nat20" on his soundboard

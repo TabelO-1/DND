@@ -8,4 +8,6 @@
 8. Power Cells
 9. Power Control Console: Tells you everything is fucked!
 10. Ration Holder: 7 Non-Spoiled Rations
-11. Gravity Boots
+11. Gravity Boots, Credits, and a shock stick.
+12. (shuttle) The shuttle can be repaired with parts from the engine room
+13. (secondary cryobay). Personal artifacts, 2 rations, and a Switch Blade.
