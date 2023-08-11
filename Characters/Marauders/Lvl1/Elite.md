@@ -15,3 +15,5 @@
     - Intelligence 10(0)
     - Wisdom 12(+1)
     - Charisma 10(0)
+ * Special Abilities:
+    - Darkvision: 60ft
