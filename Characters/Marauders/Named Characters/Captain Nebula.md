@@ -1,9 +1,13 @@
 Marauder Station Captain:
 # Captain Nebula
-
+ * Race: Dwarf
  * Health: 25
  * Armor Class: 14
- * Weapon: 
+ * Weapon: Shock Stick(Epic)
+    - Melee Range
+    - Damage: 1d4+3 Lightning
+    - To hit: d20
+    - Special Effect: 1d4+2 to stun for 2 turns(strength saving throw)
  * Stats:
     - Strength 12(+1)
     - Dexerity 18(+4)

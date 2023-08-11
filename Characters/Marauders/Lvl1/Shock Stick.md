@@ -7,7 +7,7 @@
     - Melee Range
     - Damage: 1d4 Lightning
     - To hit: d20
-    - Special Effect: 1d4 to stun for 2 turns(strength saving throw)
+    - Special Effect: 1d4+1/2str to stun for 2 turns(strength saving throw)
  * Stats:
     - Strength 12(+1)
     - Dexerity 12(+1)
