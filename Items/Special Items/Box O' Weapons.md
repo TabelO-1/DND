@@ -6,7 +6,7 @@ Value: ???
 Lore: A box that has a button on it. Pressing it gives a random weapon
 1. The enemy you are facing gains an enchanted sword.
 2.
-3. A pair of scissors falls out and stabs out in the foot. Lose 2 health.
+3. A pair of scissors falls out and stabs user in the foot. Lose 2 health.
 4.
 5.
 6.
@@ -23,4 +23,4 @@ Lore: A box that has a button on it. Pressing it gives a random weapon
 17.
 18.
 19.
-20. You gain a enchanted sword.
+20. You gain a legendary enchanted sword. Tell bryson to play "Nat20" on his soundboard
