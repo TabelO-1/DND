@@ -3,11 +3,16 @@ Marauder Station Captain:
  * Race: Dwarf
  * Health: 25
  * Armor Class: 14
- * Weapon: Shock Stick(Epic)
+ * Weapon: 
+  1. (Close Range) Shock Stick(Epic)
     - Melee Range
-    - Damage: 1d4+3 Lightning
+    - Damage: 1d4+4 Lightning
     - To hit: d20
     - Special Effect: 1d4+2 to stun for 2 turns(strength saving throw)
+  2. (Long Range) Field Survival Rifle(Epic):
+    - 40-60 Foot Range
+    - Damage: 1d8+7 Piercing
+    - To hit: d20+4
  * Stats:
     - Strength 12(+1)
     - Dexerity 18(+4)
