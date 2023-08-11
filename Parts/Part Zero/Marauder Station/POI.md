@@ -1,21 +1,4 @@
-Enemies:
-1. 3 Enemies in the guard room(Fight Garuenteed)
-2 Unarmed, 1 Pistol
-2. 2 Enemies Patrolling the Cargo Hold(Stealth Roll)
-2 Pistol
-3. 4 Enemies in the mess hall(Can be avoided if they don't go in)
-3 Unarmed, 1 Pistol
-4. 6 Enemies in the Crew Quarters, yeah don't go in.
-1 Elite, 3 Pistol, 2 Unarmed
-5. 2 Enemies in the Hanger Room(Killed by the AstroCorp Men)
-Irrelevant
-6. 4 Enemies in the Hanger Control
-1 Elite, 2 Pistol, 1 Unarmed
-
-Allies:
-1. 5 Allies with pistols, same stats.
-
-Point: Need to override security to get out.
+Point: Need to override hanger bay security to escape.
 
 New POIs:
 1. A console in th cell room that can open the door to the guard's room
@@ -35,17 +18,26 @@ New POIs:
 15. Vault: requires a 17+ in engineering/tech roll. If failed the vault will lock pernamently. If opened they gain 3000 credits and a legendary Field Survival Rifle
 
 Enemies:
-1. Three Marauders
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
+1. Three Marauders: 2 Unarmed, 1 Pistol
+2. Shock Stick Marauder
+3. Switch Blade Marauder
+4. Unarmed Marauder
+5. Shotgun Marauder
+6. Baseball Bat Marauder
+7. Shotgun Marauder
+8. Elite Marauder
+9. Lead Pipe Marauder
+10. Rifle Marauder
+11. Unarmed Marauder
+12. Elite Marauder
+13. Pistol Marauder
+14. 3 Marauders: 1 Elite, 2 Shock Stick
+
+Allies:
+1. Three Allies Ultizing: 1 Rifle, 2 Pistol
+
+Neutrals:
+1. A very drunk pirate, cannot be goaded into fighting.
+2. A chill pirate, doesn't care about ya
+3. Wants to be left alone, if bothered will attack. Elite Marauder
+4. Can play pazaak with.
