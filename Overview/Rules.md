@@ -18,3 +18,5 @@ Short rest loses two levels of exhaustion. Long rest loses 5 levels of exhaustio
 9. -9 to all rolls
 10. -10 to all rolls, cannot move.
 11. Death
+
+Medicine Skill: every point above 10 gains 1 hp, and every point below loses
