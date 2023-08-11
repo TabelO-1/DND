@@ -1,0 +1,1 @@
+Gives 30% HP on use
