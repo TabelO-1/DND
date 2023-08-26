@@ -7,3 +7,6 @@
 7. Complete Research on use of Google Slides as the primary sharing tool.
 8. Rival team/Create internal rivalaries(Dax/Brian at odds for Emperor/Anarchy or more!)
 9. Factions need to be active.
+
+Important:
+1. Add DND-Resources Channel

@@ -20,3 +20,7 @@ Short rest loses two levels of exhaustion. Long rest loses 5 levels of exhaustio
 11. Death
 
 Medicine Skill: every point above 10 gains 1 hp, and every point below loses
+Turns:
+2 Actions(Can speak regardless)
+Movement
+Do Something Action
