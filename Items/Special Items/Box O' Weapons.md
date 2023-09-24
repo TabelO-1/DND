@@ -10,7 +10,7 @@ Lore: A box that has a button on it. Pressing it gives a random weapon
 4.
 5.
 6.
-7.
+7. Explosive slightly helpful but hurts
 8.
 9.
 10.

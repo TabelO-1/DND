@@ -20,7 +20,12 @@ Short rest loses two levels of exhaustion. Long rest loses 5 levels of exhaustio
 11. Death
 
 Medicine Skill: every point above 10 gains 1 hp, and every point below loses
+
+Communication without a shared langauge(improvision)/not being able to hear requires:
+The communicator to make a performance check and the other person to make an insight check.
+
 Turns:
 2 Actions(Can speak regardless)
 Movement
-Do Something Action
+Action
+(Bonus) Interact with the surroundings
