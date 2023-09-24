@@ -7,3 +7,4 @@
 7. Field Survival Shotgun
 8. Abandoned Reactor
 9. Shuttle repair parts
+10. Special Console: Tells players that their communication equipment is used on the bridge
