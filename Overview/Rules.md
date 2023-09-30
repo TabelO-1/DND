@@ -29,3 +29,5 @@ Turns:
 Movement
 Action
 (Bonus) Interact with the surroundings
+
+Critical Hits roll over to other enemies

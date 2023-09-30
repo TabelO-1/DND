@@ -7,7 +7,7 @@ Lore: A box that has a button on it. Pressing it gives a random weapon
 1. The enemy you are facing gains an enchanted sword.
 2.
 3. A pair of scissors falls out and stabs user in the foot. Lose 2 health.
-4.
+4. A knife flies out and stabs you in the knee, take 1 damage
 5.
 6.
 7. Explosive slightly helpful but hurts
