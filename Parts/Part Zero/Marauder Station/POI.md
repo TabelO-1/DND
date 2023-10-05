@@ -1,7 +1,7 @@
 Point: Need to override hanger bay security to escape.
 
 New POIs:
-1. A console in th cell room that can open the door to the guard's room
+1. A console in the cell room that can open the door to the guard's room
 2. A table and chairs with a card came known as paazak. If they investigate they will discover 200 credits
 3. Lockers containing the prisoner's artifacts
 4. Storage Bin: 200 Credits
