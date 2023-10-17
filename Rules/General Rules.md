@@ -1,7 +1,3 @@
-All the transport ships would have to be weaponless/armor and shieldless. And if you decide to have one be attacked have scripted damage for it.
-
-Ships Ultize Jump gates that require time to power up. Takes more time and power for larger ships. Gates are controlled by stations nearby.
-
 Advantage/Disadvantage is +/-3
 
 Exhaustion Rules:
@@ -18,3 +14,16 @@ Short rest loses two levels of exhaustion. Long rest loses 5 levels of exhaustio
 9. -9 to all rolls
 10. -10 to all rolls, cannot move.
 11. Death
+
+Turns lengths:
+Combat: Each turn encompasses a maximum of 30 seconds.
+Short Variation: Each turn encompasses 10 or so minutes.
+Medium Variation: Each turn encompasses around an hour.
+Long Variation: Each turn encompasses 4 hours.
+
+Turn rules:
+ - 4 Actions per round that you may take in any turn.
+   - Movement
+   - Action
+   - Bonus
+   - Interact

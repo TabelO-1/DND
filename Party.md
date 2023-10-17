@@ -1,24 +1,29 @@
+Dax: 24
+Tyler: 21
+Gavin: 12
+Bryson: 7
+Boroka: 6
+Brian: 2
 
-Ally 1
-Initative: 15
-Health: 3
-Weapon: Unarmed attack:
-5ft Reach
-1+Strength
-To hit: 2+Strength
-Armor Class: 10
 
-Stats:
-Strength 12(+1)
-Dexerity 12(+1)
-Constituion 12(+1)
-Intelligence 10(0)
-Wisdom 10(0)
-Charisma 12(+1)
 
-Turn Order:
-Boroka 19
-Bryson 16
-Unarmed Marauder(A1): 15
-Dax 14
-Brian 12
+Gavin 5/10.
+Everyone has suits on
+
+Suit Frequency: 121.7 Hz
+Bryson Stacked all the boxes in the shuttle bay in the corner
+
+Bryson Placed 16 02 Bottles in the shuttle
+
+Tyler Used Ring Once
+
+Exhaustion Levels:
+Dax: 1
+Gavin: 4
+
+24 Dax
+21 Tyler
+20 Knuckles 30/30
+12 Gavin
+7 Bryson
+2 Brian

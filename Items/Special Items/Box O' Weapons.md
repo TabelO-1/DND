@@ -4,23 +4,14 @@ Special Effect: Receive a limited time weapon based off a d20 roll.
 Display as attack
 Value: ???
 Lore: A box that has a button on it. Pressing it gives a random weapon
-1. The enemy you are facing gains an enchanted sword.
-2.
-3. A pair of scissors falls out and stabs user in the foot. Lose 2 health.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19. Legendary Potato Cannon
-20. You gain a legendary enchanted sword. Tell bryson to play "Nat20" on his soundboard
+
+Low Rolls:
+1: Enemy Gains the enchanted sword
+Pair of scissors fall out and stabs user in the foot and loses two health
+Knife stabs you in the knee, lose 3 health
+
+Medium Rolls:
+Explosive helps but hurts
+
+High Rolls:
+20: Lengendary Potato Cannon or Lengendary Enchanted Sword. Tell bryson to play "Nat20" on his soundboard

@@ -1,2 +1,0 @@
-Escaped the room, fought the guards, searched the guard room. Discovered Comfy Chairs, got special items, charmed a Unarmed Marauder into joining their group, took out Cargobay enemies, searched cargo bay.
-Last box in the Cargobay has 200 credits and a rifle.

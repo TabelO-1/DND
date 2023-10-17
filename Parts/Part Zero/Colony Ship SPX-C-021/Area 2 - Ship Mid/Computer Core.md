@@ -1,4 +1,4 @@
-Captain's Recording:
+Captain's Recording: 2143.07.23
 
 After an agonizing wait, the terminal finally flickers to life, its screen illuminating with a dim glow. Gradually, a recording begins to load, accompanied by the slow progression of a small loading bar. As the bar inches forward, the spectral visage of the ship's captain materialized, her haunted face coming into focus:
 
