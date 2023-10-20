@@ -1,4 +1,4 @@
-Point: Need to override hanger bay security to escape.
+Point: Need to override hanger bay security to escape. Captain has keycard to the door and key to the shuttle
 
 New POIs:
 1. A console in the cell room that can open the door to the guard's room
@@ -32,9 +32,6 @@ Enemies:
 12. Elite Marauder
 13. Pistol Marauder
 14. 3 Marauders: 1 Elite, 2 Shock Stick
-
-Allies:
-1. Three Allies Ultizing: 1 Rifle, 2 Pistol
 
 Neutrals:
 1. A very drunk pirate, cannot be goaded into fighting.
