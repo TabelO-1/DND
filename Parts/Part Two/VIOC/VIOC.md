@@ -11,4 +11,4 @@ Station Center: The Center of the station and the least populated, it's divided 
 Lower Decks: The lower part of the station can be broken into three subsections:
   1. Slums: Very poor people and many gangs reside here.
   2. Lower Docks: Docks for lower-class mining operations and some illegal activity, with little to no security.
- 3. Bottom of the Spire: Contains the very bottom of the spire, mostly abandoned with some secrets.
+  3. Bottom of the Spire: Contains the very bottom of the spire, mostly abandoned with some secrets.
