@@ -1,4 +1,4 @@
-Point: Need to override hanger bay security to escape. Captain has keycard to the door and key to the shuttle
+Point: Need to override hanger bay security to escape. Captain has keycard to the door and key to the shuttle. Captain
 
 New POIs:
 1. A console in the cell room that can open the door to the guard's room
