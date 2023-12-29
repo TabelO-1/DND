@@ -17,3 +17,10 @@
 *The atmosphere is charged with both competition and collaboration. The players must decide how much information to share, knowing that only one can claim victory in the end. As they navigate the treacherous maze, tensions rise, alliances form and dissolve, and the true test of trust unfolds.*
 
 *The first player to reach the maze's heart, guided by the map and avoiding the perils that lie in wait, will discover the Christmas star and emerge victorious. Meanwhile, the others must tread carefully, relying on their wits and the choices of their guide to survive the challenges of the maze.*
+
+Floor II - Maze of Shadows:
+"In shadows deep, a maze to explore,
+Paths intertwine, secrets galore.
+Together you tread, or alone in the dark,
+Mysteries untold, leave your lasting mark."
+

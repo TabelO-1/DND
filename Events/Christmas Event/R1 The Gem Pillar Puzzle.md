@@ -1,37 +1,55 @@
 **The Gem Pillar Puzzle**
 
-*As the players enter the room, they see five pillars arranged in a circular pattern, each adorned with different colored gems: red, green, blue, yellow, and white. In the center of the room is a pedestal with an empty slot in the shape of a star. A mysterious voice intones:*
+As the players enter the room, they are greeted by a sight of five towering pillars arranged in a circular pattern. Each pillar is adorned with vibrant gems of different colors: red, green, blue, yellow, and white. In the center of the room lies a pedestal with an empty slot in the shape of a star.
 
-*"Solve the puzzle, align the gems with glee,*
-*All shall advance, but one shall hold the key.*
-*A map to the maze, a reward for the swift,*
-*Choose wisely, for dangers in shadows drift."*
+The Enchanting Riddle:
+
+"In the realm of colors, magic abounds,
+Arrange the gems where harmony is found.
+Let the enchantment guide your quest,
+To reveal the star, you must be at your best.
+Yet, heed this truth, and listen clear,
+The star awaits but one pioneer."
+
+The players must now decipher the enchanting riddle and understand that the arrangement of the gems is crucial to revealing the path forward.
+
+Enchanted Gem Patterns:
+
+Red Pillar (Flame): The red gem has a flame pattern that suggests it should be placed first.
+
+Green Pillar (Leaf): The green gem, adorned with a leaf pattern, follows the flame, signifying the cycle of growth.
+
+Blue Pillar (Wave): The blue gem, shaped like a wave, comes next, symbolizing the flow of water.
+
+Yellow Pillar (Sun): The yellow gem, radiating like the sun, takes its place in the sequence.
+
+White Pillar (Snowflake): Lastly, the white gem, with a delicate snowflake pattern, completes the arrangement.
+
+Clue: Celestial Mural
+
+On the wall behind the pillars, there is a celestial mural depicting a harmonious sequence of celestial events:
+
+A comet blazing with a red flame.
+Leaves budding on a tree beneath a serene blue sky.
+Waves crashing on a sunlit shore.
+A radiant sun shining over a golden landscape.
+A serene snowfall covering a peaceful winter scene.
+Challenge:
+
+Observation of the Celestial Mural: The players need to carefully observe the celestial mural to discern the sequence of events.
+
+Connection to Gem Patterns: The celestial events depicted in the mural correspond to the enchanted gem patterns on the pillars.
+
+The Reward:
+
+Once the players successfully connect the celestial events in the mural to the enchanted gem patterns, they can rotate the gems on each pillar in the correct order. The room lights up with a magical glow, and the pedestal in the center reveals the Christmas star.
+
+This way, the players have a visual clue that guides them in arranging the gems on the pillars, emphasizing the theme of harmony and celestial magic.
 
 
-The riddle on the pedestal is accompanied by an ominous poem etched into the floor:
 
-*"Solve the puzzle, align the gems with glee,*
-*All shall advance, but one shall hold the key.*
-*A map to the maze, a reward for the swift,*
-*Choose wisely, for dangers in shadows drift."*
-
-The symbols on each pillar indicate the order, but now there's an added layer of danger. As the players arrange the pillars correctly, the magical barrier allows only the one who successfully aligns the gems to proceed to the next room, where the maze awaits.
-
-For instance, if the symbols on the pillars are as follows:
-
-Red (Flame)
-Green (Leaf)
-Blue (Wave)
-Yellow (Sun)
-White (Snowflake)
-The correct order would be: Red, Green, Blue, Yellow, White.
-
-
-*The riddle on the pedestal guides the players, and the symbols on each pillar indicate the correct order. As the players work together to solve the puzzle, the magical barrier lifts, allowing all to advance. However, the first player to complete the puzzle receives a bonus – a magically enchanted map revealing the layout of the maze that awaits them.*
-
-*The map might include key features of the maze, such as dead ends, traps, or hints about the correct path. This additional information gives the leading player a strategic advantage in navigating the maze.*
-
-*After solving the puzzle, the group proceeds to the next room, where the maze unfolds. The players must now navigate the maze, facing challenges and making decisions based on the information provided by the map. The first player to successfully reach the end of the maze with the Christmas star in hand still wins the challenge.*
-
-
-
+Floor I - Gem Pillar Puzzle:
+"Amidst pillars of color, a puzzle unfolds,
+Harmony sought, in gems to be told.
+Rotate and align, let enchantment sing,
+The star's revelation, the first joy it brings."

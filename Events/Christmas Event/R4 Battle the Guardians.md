@@ -25,3 +25,9 @@
 3. **Dynamic Challenge:** The Guardians increase in speed and aggression over time, intensifying the challenge. Players need to adapt their strategy as the battle unfolds.
 
 *The room emphasizes the importance of teamwork, as players coordinate their movements to outsmart the Guardians. The possessor of the map plays a crucial role in locating weapons that can turn the tide of the battle. Once the players successfully navigate the Guardian's domain and defeat or evade them, they can proceed to the next room, Christmas star still glittering in the distance.*
+
+Floor IV - Battle the Guardians:
+"Guardians fierce, within this hall,
+A test of might, a challenge for all.
+Weapons hidden, shadows to fight,
+In teamwork's embrace, claim the night."

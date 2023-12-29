@@ -23,3 +23,10 @@
 3. **Race Against Time:** The frozen floor is slowly melting, and players must navigate the grid efficiently. If they take too long, the ice beneath them will weaken, increasing the risk of falling through.
 
 *The room presents a delicate balance between cooperation and competition. The players must work together to reach the end, but the possessor of the map holds a crucial advantage. Whether they choose to share the information or use it to gain a personal edge will significantly impact the group's success in crossing the frozen floor and obtaining the Christmas star.*
+
+Floor III - Frozen Floor:
+"Beneath the frost, a floor of cold,
+Navigate wisely, secrets to unfold.
+Ice may crack, peril be near,
+But with unity, victory is clear."
+

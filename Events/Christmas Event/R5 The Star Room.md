@@ -27,3 +27,9 @@
 2. **Reward and Reflection:** The adventure concludes with the players leaving the star-shaped room, each carrying the memory of the challenges they overcame and the friendships strengthened during their quest for the Christmas Star.
 
 *This final room reinforces the theme of teamwork and unity, catching the players by surprise and challenging them to come together for a shared victory. It adds a powerful narrative twist to the adventure, leaving the players with a memorable and heartwarming conclusion to their D&D Christmas event.*
+
+Floor V - The Star Room:
+"At the heart of the star, a revelation grand,
+Unity's magic, across the land.
+Together you stand, as one you shall be,
+The Christmas star, a gift to set you free."
