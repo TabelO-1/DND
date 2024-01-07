@@ -39,14 +39,7 @@ Challenge:
 Observation of the Celestial Mural: The players need to carefully observe the celestial mural to discern the sequence of events.
 
 Connection to Gem Patterns: The celestial events depicted in the mural correspond to the enchanted gem patterns on the pillars.
-
-The Reward:
-
-Once the players successfully connect the celestial events in the mural to the enchanted gem patterns, they can rotate the gems on each pillar in the correct order. The room lights up with a magical glow, and the pedestal in the center reveals the Christmas star.
-
-This way, the players have a visual clue that guides them in arranging the gems on the pillars, emphasizing the theme of harmony and celestial magic.
-
-
+red blue green yellow white
 
 Floor I - Gem Pillar Puzzle:
 "Amidst pillars of color, a puzzle unfolds,
