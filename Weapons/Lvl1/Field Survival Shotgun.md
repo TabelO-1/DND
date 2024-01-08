@@ -8,4 +8,4 @@ Range 10
 Long Range 30
 Display as attack
 Value: 250 Credits
-Lore: A simple shotgun that often jams, but can be useful in some scenarios
+Lore: A simple shotgun that often jams, but can be useful in some scenarios.
