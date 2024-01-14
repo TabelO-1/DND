@@ -29,7 +29,12 @@ Money:       | 190
 Carrying:    | 0/285lb
 
 Backstory:
-A member a small moon colony that was destroyed by alien invaders. No one believed such, rather believing it to be freak accident. He now is on a quest for revenge.
+The ring is an alien artifact your father stole from aliens. Since the ring was meant for alien anatomy it negatively affects human minds. When the aliens came for it back they razed your moon colony and killed everyone you've ever known. You find only one survivor: your father, who tells you what happens, gives you the ring, tells you the aliens are from mars(which is why you boarded a colony ship to get there), and then died.
+
+You will not break me.
+I will break you.
+I swear by it.
+Fuck them all.
 
 DM Notes:
 Has the Ring of Divine Suffering. Has used Once to add +1 to strength

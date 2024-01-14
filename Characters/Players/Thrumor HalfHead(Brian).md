@@ -32,4 +32,5 @@ Money:       | 10
 Carrying:    | 10/270lb
 
 DM Notes:
-Note very good at being Lawful Good.
+Lifelong goal is to find a special rock to make a piece of art out of it and give it to the dwarvish people. The rock has to be large enough to make a carving of a tree. He wants to make a rock tree.
+The rock is a martian rock.
