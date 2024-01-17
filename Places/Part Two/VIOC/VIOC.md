@@ -12,3 +12,5 @@ Lower Decks: The lower part of the station can be broken into three subsections:
   1. Slums: Very poor people and many gangs reside here.
   2. Lower Docks: Docks for lower-class mining operations and some illegal activity, with little to no security.
   3. Bottom of the Spire: Contains the very bottom of the spire, mostly abandoned with some secrets.
+
+The Central Spire in the lower half of the station has a elevator that goes up and down the entire bottom half's area. Only Conglomerate Employees and Authorizied Persons may travel using the elavator. To access it the players will need to create a fake id card, steal one, or find an organziation that would give them a real one. These ids will get them past checkpoints, however each ID only allows different access points and they will need different access cards to reach the high class area.
