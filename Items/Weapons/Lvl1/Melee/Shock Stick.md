@@ -1,10 +1,6 @@
-Attack type: Natural
+# Shock Stick
 Melee
-Stat: N/A
-1d4
-Damage Type: Lightning
-Save Type: Strength
+1d4 Lightning
 Special Effect: 1d4+1/2str to stun for 2 turns
-Display as attack
-Value: 200 Credits
+75gp
 Lore: A small stick that shocks anything it comes into contact with.

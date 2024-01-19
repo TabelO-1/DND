@@ -14,3 +14,5 @@ Lower Decks: The lower part of the station can be broken into three subsections:
   3. Bottom of the Spire: Contains the very bottom of the spire, mostly abandoned with some secrets.
 
 The Central Spire in the lower half of the station has a elevator that goes up and down the entire bottom half's area. Only Conglomerate Employees and Authorizied Persons may travel using the elavator. To access it the players will need to create a fake id card, steal one, or find an organziation that would give them a real one. These ids will get them past checkpoints, however each ID only allows different access points and they will need different access cards to reach the high class area.
+
+The lower decks are rather cold and the station gets warmer as you go up. By the time the players reach the upper levels they will be adjusted to the cold and will be quite hot.

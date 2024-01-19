@@ -1,10 +1,6 @@
-Attack type: Natural
+# Enchanted Sword
 Melee
-Stat: Str
-3d20+Strd20
-Damage Type: Lightning
-Save Type: N/a
+3d20+strd20 Lightning
 Special Effect: The user gains 100 Health and damage rolls over to other enemies.
-Display as attack
-Value: 200000000000000 Credits
+???gp
 Lore: If anyone gets this...

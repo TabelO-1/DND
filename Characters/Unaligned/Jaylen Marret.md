@@ -15,4 +15,9 @@
     - Wisdom:  14(+2)
     - Charisma: 8(-1)
  * NPC Description:
+ A human male somewhere in his early 30s. 
+ He is wearing black trousers and a grey sweatshirt with a pistol on his side.
+ He has grey hair and a small stuby beard. 
+ Although he looks friendly you can tell by looking at his face he's been through some things.
+
  Jaylen Marret is a NPC that owns a dock on the lower decks of VIOC and is unaligned with any faction.
