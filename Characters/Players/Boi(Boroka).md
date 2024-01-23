@@ -33,4 +33,4 @@ Money:       | 600
 Carrying:    | 10/225lb
 
 DM Notes:
-Minions: 3/4
+Minions: 0/4

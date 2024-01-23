@@ -22,19 +22,19 @@ Enemies:
 <!-- 2. Shock Stick Marauder -->
 <!-- 3. Switch Blade Marauder -->
 <!-- 4. Unarmed Marauder -->
-5. DF2 FS Shotgun LV1 Marauder
-6. DF2 Baseball Bat LV1 Marauder
-7. DF2 FS Shotgun LV1 Marauder
-8. DF3 DW FS Pistol LV1 Marauder
+<!-- 5. DF2 FS Shotgun LV1 Marauder -->
+<!-- 6. DF2 Baseball Bat LV1 Marauder -->
+<!-- 7. DF2 FS Shotgun LV1 Marauder -->
+<!-- 8. DF3 DW FS Pistol LV1 Marauder -->
 <!-- 9. Lead Pipe Marauder -->
 10. DF2 FS Rifle LV1 Marauder
 11. DF1 Marauder
 12. DF3 DW FS Pistol LV1 Marauder
 13. Captain Nebula
-14. 3 Marauders: 
-DF3 DW FS Pistol LV1 Marauder
+<!-- 14. 3 Marauders:  -->
+<!-- DF3 DW FS Pistol LV1 Marauder
 DF1 Shock Stick LV1 Marauder
-DF1 Shock Stick LV1 Marauder
+DF1 Shock Stick LV1 Marauder -->
 
 Neutrals:
 1. A very drunk pirate, cannot be goaded into fighting.
