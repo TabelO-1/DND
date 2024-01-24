@@ -27,12 +27,12 @@ Details:
  * Civilized Population: 300k
  * Factions: Earth Government, AstroCorp, Venus Conglomerate
  * Explorable Areas: North Europe PZ, West Europe PZ, North America East PZ, North America West PZ, North America Central PZ, South America PZ, Japan PZ, Asia PZ, Egypt PZ.
- * After Earth's Environmental Crisis turned irreversiable, the planet became an unihabitable wasteland. The rich left for the Earth Orbital Staion amongst other places leaving a majority of the population to die. Those who survived because savages and a large amount of them remain to this day. Due to breakthroughs on expiremental shield technology, the Earth Government has opened several PZ(Protection Zones) to allow nature to come back to the planet. These Zones are often threatened by the savages roaming the hills.
+ * After Earth's Environmental Crisis turned irreversiable, the planet became an unihabitable wasteland. The rich left for the Earth Orbital Staion amongst other places leaving a majority of the population to die. Those who survived became savages and a large amount of them remain to this day. Due to breakthroughs on expiremental shield technology, the Earth Government has opened several PZ(Protection Zones) to allow nature to come back to the planet. These Zones are often threatened by the savages roaming the hills.
 ## Earth Orbital Station
  * Population: 75k
  * Factions: Earth Government, AstroCorp, Miners
  * Explorable Areas: tbd
- * After everything went to shit down on Earth, the Earth Government and many rich people departed the the Earth Orbital Station. A massive station housing over seventy-five thousand people and a massive economic produce for the Earth Government. 
+ * After everything went to shit down on Earth, the Earth Government and many rich people departed the the Earth Orbital Station. A massive station housing over seventy-five thousand people and a massive economic producer for the Earth Government. 
 ## Luna Colony
  * Population 35k
  * Factions: Earth Government
@@ -65,26 +65,3 @@ Details:
  * Kuiper East & Pluto
  * Kuiper South
  * Kuiper West
-
-
-Kuiper Belt:
-Population: 1k
-Factions: Venus Conglomerate, AstroCorp, Miners, Government, Pirates
-Economic Production: Trade from minerals
-Zones: Kuiper Station North, Kuiper Station East, Kuiper Station South, Kuiper Station West
-
-Earth Meeting Chamber:
-Zones: Meeting Chamber, Guest Chambers, Electrical Systems
-
-Mars:
-Population: 10 Million
-Factions: Government, AstroCorp
-
-
-
-
-Others(TBD):
-Luna(Government HQ)
-Mars
-Earth: Earth's Environmental Crisis went to fruitition leaving the planet to be a terrible place to live on. Life expectancy is low. The rich left the planet for space station's and other stellar colonies. Only recently has a few zones that still have nature been protected by expiremental shielding technology.
-One of three: Jupiter, Saturn, Uranus
