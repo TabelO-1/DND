@@ -1,4 +1,4 @@
-Broke(Boroka) Real Name Needed.
+Broke(Bryson) Real Name Needed.
 Lvl 1 | Human | Ranger
 
 Stats         STR +1, DEX +3, CON +2, INT +3, WIS +0, CHA +1
@@ -30,3 +30,4 @@ Carrying:    | 45/180lb
 
 DM Notes:
 Likes taking things off of people.
+Look out for himself and himself only. Willing to sell out the party easily.

@@ -4,7 +4,7 @@ Special Effect: Receive a limited time weapon based off a d20 roll.
 Display as attack
 Value: ???
 Lore: A box that has a button on it. Pressing it gives a random weapon
-
+Tendency towards ranged weapons.
 Low Rolls:
 1: Enemy Gains the enchanted sword
 Pair of scissors fall out and stabs user in the foot and loses two health
