@@ -69,3 +69,10 @@ Kuiper Belt Strength: How strong a faction's position is in the Kuiper Belt. Div
  * Faction Alignment: Choatic Evil
  * HQ: Vitral Pub, Lower Slums(VIOC)
  * Bases: N/a
+
+## Halfling Guild
+ * Description: Halflings who have banded together to sell goods at markets.
+ * Faction Goal: To spread their business as far as possible while maintaining goodwill and law.
+ * Faction Alignment: Lawful Good
+ * HQ: Undetermined
+ * Bases: Market Building, Lower Slums(VIOC)
