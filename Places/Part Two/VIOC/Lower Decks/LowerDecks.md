@@ -28,7 +28,7 @@ No matter which route the players take they will come onto the following encount
 Tralick Venel - VC Checkpoint Head
 6 Guards - 2 Stun Batons, 2 Tasers, 2 Glock-27s. LV2D1.
 4 Cloaked Figures:
-Balden Jei - Miner Leader
+Balden Drillhand - Miner Leader
 Slyva - Halfing Guild Representative
 AstroCorp Operatives - 2 Glock 27s
 The players will have a choice in who to help or to just ignore the chase into of itself

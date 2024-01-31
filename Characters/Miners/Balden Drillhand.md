@@ -1,4 +1,4 @@
-# Balden Jei(Lv2):
+# Balden Drillhand(Lv2):
 
  * Race: Halfling Male
  * Health: 15
