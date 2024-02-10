@@ -1,6 +1,6 @@
 Marauder Station Captain:
 # Captain Nebula
- * Race: Dwarf
+ * Race: Male Dwarf
  * Health: 25
  * Armor Class: 14
  * Weapon: 

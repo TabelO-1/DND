@@ -21,9 +21,9 @@ Enemies:
 <!-- 1. Three Marauders: 2 Unarmed, 1 Pistol --> Recruited
 <!-- 2. Shock Stick Marauder -->
 <!-- 3. Switch Blade Marauder -->
-<!-- 4. Unarmed Marauder -->
-<!-- 5. DF2 FS Shotgun LV1 Marauder -->
-<!-- 6. DF2 Baseball Bat LV1 Marauder -->
+4. Unarmed Marauder
+5. DF2 FS Shotgun LV1 Marauder
+6. DF2 Baseball Bat LV1 Marauder
 <!-- 7. DF2 FS Shotgun LV1 Marauder -->
 <!-- 8. DF3 DW FS Pistol LV1 Marauder -->
 <!-- 9. Lead Pipe Marauder -->

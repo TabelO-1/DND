@@ -25,7 +25,7 @@ Hair:        | Short Red Hair
 Skin Color:  | White
 Age:         | 27
 Weight:      | 230lb
-Money:       | 265
+Money:       | 285
 Carrying:    | 0/285lb
 
 Backstory:

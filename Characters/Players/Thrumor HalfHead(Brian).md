@@ -28,7 +28,7 @@ Hair:        | Red
 Skin Color:  | Gray
 Age:         | 56
 Weight:      | 144lb
-Money:       | 10
+Money:       | 2040
 Carrying:    | 10/270lb
 
 DM Notes:
