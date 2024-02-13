@@ -23,7 +23,7 @@ Long Variation: Each turn encompasses 4 hours.
 
 Turn rules:
  - 4 Actions per round that you may take in any turn.
-   - Movement
-   - Action
-   - Bonus
-   - Interact
+    - Movement: *Moving around to any point that you can reasonably reach in the turn length*
+    - Action: *An action to complete during a turn. Ie: Attacks, Making a Check, etc.*
+    - Bonus: *Bonus: Take any of the the other three actions or a pre-defined bonus action on your character sheet with the exception of making a second attack unless it is a feature of your character.*
+    - Interact: *Interact with someone or something in your environment*

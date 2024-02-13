@@ -1,18 +1,22 @@
-Boroka: 20
-Dax: 18
-Brian: 16
-Bryson: 11
-Tyler: N/a
+Initative:
+Dax: 24
+Bryson: 20
+Tyler: 20
+Brian: 4
+Boroka: 2
 
-Suit Frequency: 121.7 Hz
+Bryson has used the christmas star shard.
+Boroka has used the christmas star shard.
+Tyler has used the christmas star shard.
 
-Tyler Used Ring Once
 
-Hidden Stats:
+Health:
+Tyler: 1/15
+Bryson: 9/12
+Brian: 8/12
+Boroka 11/11
+Dax 9/9
 
-Attactiveness:
-Dax: 20
-Boroka: 21
-Bryson: 12
-Brian: 11
-Tyler: 9
+Average: 11.8
+
+18/5 = 3.6 hrs of air

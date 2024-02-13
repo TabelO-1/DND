@@ -1,0 +1,1 @@
+The market includes several places to purchase things and holds the Halfling Guild Market and it contains some black market goods. Light Patrols in this area.
