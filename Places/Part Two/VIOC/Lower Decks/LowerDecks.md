@@ -22,7 +22,16 @@ Market - Where goods are sold and many factions are based.
 Upper Slums - Where the more richer poor live.
 Lower Slums - Where the poorer poor live and where the Vitral Gangsters are based.
 
-No matter which route the players take they will come onto the following encounter:
+They can be offered the following quests after poking around a littlebit:
+
+Halfling Guild: Saving a member from the gangsters. Requires busting into one of their hideouts.
+Vitral Gangsters: If they aren't immediately jumped or otherwise become hostile then they can offer a quest to steal some money from the Halfling Guild.
+Miners: Go talk with their superiors and by any means necessary, convince them to allow the miners to have meal breaks.
+Chruch of Astral Beliefs: Aqiuring a jump gate conduit.
+VC: May be willing to allow the players to become a VC guard. This will place distrust upon them.
+
+<!-- This idea is postponed. This may be used but won't be gaureenteed like before.
+No matter which route the players take they will come onto the following encounter: 
 
 4 cloaked figures running and being chased into a corner by VC guards. The Figures include 2 AstroCorp operatives, 1 Miner Leader, and a Halfling Guild Representative who were caught attempting to bypass the checkpoint with sensitive information on the VC. This information includes proof on how the VC is imprisioning and executing Miner leaders and representatives. 7 Guards:
 Tralick Venel - VC Checkpoint Head
@@ -34,4 +43,4 @@ AstroCorp Operatives - 2 Glock 27s
 The players will have a choice in who to help or to just ignore the chase into of itself
 
 IF they help the guards or choose not to help the "Good Guys" will be arrested or killed and thrown in jail, be questioned and tortured. If they choose to help the guards the leader will be thankful and offer them a deal: complete some work for them and he will reward them well. If they complete either of these the "Good Guys" won't know a thing about their involvement.
-If they help the "Good Guys" they will become enemies of the VC(Unless they kill everyone quickly) and it will take some action to escape their criminal activity. The "Good Guys" will be grateful and offer immediate shelter and then subsequently ask for help with their cause.
+If they help the "Good Guys" they will become enemies of the VC(Unless they kill everyone quickly) and it will take some action to escape their criminal activity. The "Good Guys" will be grateful and offer immediate shelter and then subsequently ask for help with their cause. -->
