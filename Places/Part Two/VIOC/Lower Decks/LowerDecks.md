@@ -8,7 +8,7 @@ Vitral Gangsters
 Halfling Guild
 
 The players ultimately need to rise upwards in the station, they can get the support of one or more factions. Upon arrival to the lower decks they will be presented by an NPC:
-Jayli Marrel, who will want payment for landing on his landing bay, a small fee of 20 Credits. Can be disauded from collection easily. He will be able to answer questions the players have. His opinions are:
+Jayli Marrel, who will want payment for landing on his landing bay, a small fee of 20 Credits. Can be disauded from collection easily. She will be able to answer questions the players have. His opinions are:
 VC - Authorative
 Astro - Shady
 Marauders - Bad Business

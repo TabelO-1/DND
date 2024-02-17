@@ -1,9 +1,9 @@
 Initative:
-Dax: 24
 Bryson: 20
-Tyler: 20
-Brian: 4
-Boroka: 2
+Dax: 17
+Brian: 13 
+Tyler: 8
+Boroka: 4
 
 Bryson has used the christmas star shard.
 Boroka has used the christmas star shard.
@@ -11,12 +11,13 @@ Tyler has used the christmas star shard.
 
 
 Health:
-Tyler: 1/15
-Bryson: 9/12
-Brian: 8/12
-Boroka 11/11
-Dax 9/9
+Tyler: 21/25
+Bryson: 20/20
+Brian: 20/20
+Boroka 19/19
+Dax 15/15
 
-Average: 11.8
+Average Lv1: 11.8
+Average Lv2: 19.8
 
 18/5 = 3.6 hrs of air

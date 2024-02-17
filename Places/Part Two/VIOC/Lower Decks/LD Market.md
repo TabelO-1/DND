@@ -30,11 +30,17 @@ Carbon: 1gp per quart
 Nitrogen: 5gp per quart
 Argon: 15gp per quart
 
-Ration Seller:
+Food Court:
+Gar Bar
+Vegetable Store
+General Food Shop:
 Foods people can think of: 3gp to just have that food.
-Rations themselves: 50gp each with a limit of 3 per player.
 
-Medical Items:
+
+Medical Wing:
+Hospital
+
+Pharmacy: 
 Bandaids: 20gp
 Painkillers: 30gp
 Medical Cloth: 50gp
@@ -54,4 +60,12 @@ Weapon System: 5000gp
 Survival Items:
 Mining Drill: 100gp
 O2 Bottle: 30gp
+Fuel: 40gp
 Spacesuit: 50gp
+Survial Rations themselves: 50gp each with a limit of 3 per player.
+
+Weapons Dealers:
+*Black Market*
+Field Survival Weapons
+Some Lvl 2 Weapons
+Armor
