@@ -1,6 +1,6 @@
 Melee
 Special Effect: Receive a limited time weapon based off a d20 roll.
-1d20
+1d20+level past 1
 Display as attack
 Value: ???
 Lore: A box that has a button on it. Pressing it gives a random weapon

@@ -1,14 +1,9 @@
 Initative:
-Bryson: 20
-Dax: 17
-Brian: 13 
-Tyler: 8
-Boroka: 4
-
-Bryson has used the christmas star shard.
-Boroka has used the christmas star shard.
-Tyler has used the christmas star shard.
-
+Bryson:
+Dax:
+Brian:
+Tyler: 
+Boroka: 
 
 Health:
 Tyler: 21/25

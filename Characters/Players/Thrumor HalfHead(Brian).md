@@ -1,6 +1,7 @@
 Thurmor Halfhead (Brian)
-Lvl 1 | Dwarf | Fighter
+Lvl 2 | Dwarf | Fighter
 
+Max Health: **20**
 Stats         STR +4, DEX +0, CON +2, INT -1, WIS +2, CHA -1
 Saving Throws STR +6, DEX +0, CON +4, INT -1, WIS +2, CHA -1
 Passive Perception:     12
@@ -10,9 +11,11 @@ Darkvision:             60
 Attractiveness:         11
 
 Special Features:
-Second Wind. 0/1 per short rest
+Second Wind. **0/1** per short rest
 Gains 1d10+1 HP as a bonus action
+Action Surge. **0/1** per short rest. Gain one additional action
 Dwarven Resilience: Gains advantage on saves against poison and resistance against poison damage.
+Christmas Star Shard: **0/1** per long rest. Regain (level)d10 health
 
 Background: Folk Hero:
 Feature: Rustic Hospitality
@@ -28,7 +31,7 @@ Hair:        | Red
 Skin Color:  | Gray
 Age:         | 56
 Weight:      | 144lb
-Money:       | 2040
+Money:       | 1740
 Carrying:    | 10/270lb
 
 DM Notes:
