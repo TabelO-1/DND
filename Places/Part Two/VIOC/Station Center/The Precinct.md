@@ -1,0 +1,2 @@
+You were taken to a Police Precinct(fancy word for station). The entrance was nothing glamorous, however there were quite a few officers and defenses around the entrance.
+The Precinct contains offices, overnight jail cells, and interrogation rooms.
