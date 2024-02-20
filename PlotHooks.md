@@ -4,3 +4,5 @@ The whole party got blown up. Brain damage.
 Angry Mother Nature Goddess
 Retribution over Marauder station.
 Jump-gate error.
+
+Tyler escaping to the spire bottom.
