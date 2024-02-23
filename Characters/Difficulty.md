@@ -6,8 +6,8 @@ Difficulty 3: 9 Health
 Difficulty 4: 12 Health
 
 Average Health of LVL2
-Players = 
-D1:
-D2:
-D3:
-D4:
+Players = 19.8
+D1: 5
+D2: 10
+D3: 15
+D4: 20
