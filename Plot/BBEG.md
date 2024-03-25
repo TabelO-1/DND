@@ -1,1 +1,29 @@
-The big bad evil guy is the assisant to the Venus Conglomerate's CEO, whom is his puppet. He has been in control of the Venus Conglomerate since it's inception. He is an ancient being or wizard that has been around since the rise of Rome. He reincarnates every time he dies. He has been an evil man in many of his lives. From being different roman emperors, genghis Khan, to hitler. It was his efforts that caused the earth to become a wasteland. The players on a misson on earth can find a recording of one of his past lives advocating against climate change policies, sucessfully. He did this to destabalize the government in an attempt to take over. This was unsucessful. He also destroyed the Mars Jump Gate so others wouldn't gain too much power in space. His eventual goal is to take over all life. To meet this goal he is supressing everyone and every faction as best he can, but knows at current he is not strong enough to take on the government. His salvation: The Kuiper Belt. With this belt he would control enough raw resources to easily defeat the government. The Marauders are on his payroll to make attacks on everyone to justify him owning a sizeable "Defensive" fleet.
+The primary antagonist lurks within the ranks of the Venus Conglomerate, pulling strings as the shadowy vice president behind the puppet CEO. This figure, an ancient being or wizard with roots tracing back to the days of Rome, has held sway over the conglomerate since its inception. With each demise, he reincarnates, perpetuating a cycle of malevolence across the annals of history. From the corridors of Roman power to the conquests of Genghis Khan and the atrocities of Hitler, his presence has cast a dark shadow upon humanity.
+
+Despite his nefarious machinations, it was his actions that led to the Earth's desolation, orchestrating events that plunged the planet into a wasteland. Even in past lives, traces of his cunning can be found, such as recorded instances where he successfully campaigned against climate change policies to destabilize governments. Yet, despite his efforts, some schemes faltered, such as his failed bid to overthrow established authorities by wrecking the Mars Jump Gate, preventing others from rising to power in space.
+
+Driven by an insatiable hunger for dominion, his ultimate goal remains the conquest of all life. Presently, he navigates the intricate web of factions, suppressing dissent and manipulating events from the shadows. His eyes are set on the Kuiper Belt, a trove of resources that would grant him unparalleled power. To bolster his agenda, he employs the Marauders, orchestrating attacks to justify amassing a formidable "defensive" fleet. But even as his schemes unfold, he knows that challenging the government directly remains a daunting task.
+
+Methods of spreading his influence:
+
+Bribery
+Imprisonment
+Kidnapping
+Threats and Harassment
+Legal Intimidation
+Cheating
+Framing
+Slander
+Humiliation
+Lying(Like on everything)
+Assasination
+Poisoning
+Betrayal/Treason
+Conspiracy
+Espionage
+Oppression
+Heavy Taxes
+Blackmail
+Ambush
+Massacre
+Terrorism
