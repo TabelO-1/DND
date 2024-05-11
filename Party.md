@@ -25,3 +25,17 @@ Current Numbers:
 
 NAT20s on attack rolls: MAX Possible Damage with that attack/weapon + a normal roll.
 Dax Prays/Medatates: 0
+
+### Ammunition Ruling:
+General Ammunition Rules: **No Limit on the number of rounds you have but you have to reload your clip after it's empty.** Below is outlined general rules for clips for guns and exceptions:
+
+General Clips:
+Semi-Automatic Gun: 15
+Pistols: 12
+Rifle: 8
+Shotgun: 6
+
+Exceptions:
+Revolver: 6
+Double Barrel Shotgun: 2
+RPG: 1
