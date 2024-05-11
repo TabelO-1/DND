@@ -49,3 +49,8 @@ An undercover pirate, attempting to bring peace to the frontier.
 She(?) wants to side with all factions to make everyone happy.
 A peace monk, only helping the pirates to allow them to get what they want.
 They would react if the pirates couldn't be satisfied and began war.
+
+Guardian of the Sea Interaction:
+Firstly you must be near a source of water greater in size than a gallon. More water = more this deity can do.
+Second, you must pray to your god, using an action and succeed for something to happen. The DC will vary by what you are attempting to accomplish.
+Thirdly you must spend time in the game devoting yourself to your god, doing things in its name, praying to it, etc.. Despite your deep and long devotion it will take time for the response of meaningfulness. This is for a reason: despite the devotion, your character has been gone for some time.
