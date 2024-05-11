@@ -9,6 +9,7 @@ Guardian of the Sea: Dax's character's God
 Police Retribution: Brian, his face/crimes are known. Party somewhat known
 Pickpockets
 Pirate attack
+Halfhead Clan Survivors
 
 Surprises:
 Betral or Suprise alliance
