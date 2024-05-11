@@ -14,14 +14,25 @@ Brian: 10/20
 Boroka 19/19
 Dax 15/15
 
-Average Lv1 Player Health: 11.8
-Average Lv2 Player Health: 19.8
+Passive Perception:
+Boi(Boroka): 14
+Illeva(Dax): 14
+Thurmor Halfhead: 12
+Broke(Bryson): 10
+Carl Drakea(Tyler): 10
 
 Current Numbers:
 1: Dax
 2: Bryson
 3: Boroka
 4: Brian
+
+
+# DM Notes:
+
+Get party with some pickpockets Session 15
+Average Lv1 Player Health: 11.8
+Average Lv2 Player Health: 19.8
 
 NAT20s on attack rolls: MAX Possible Damage with that attack/weapon + a normal roll.
 Dax Prays/Medatates: 0
