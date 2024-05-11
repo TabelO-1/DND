@@ -15,4 +15,4 @@
     - Wisdom:  12(0)
     - Charisma: 10(0)
  * NPC Description:
- A Halfling Female who works for the Halfling Guild on covert missions. She appears to be a young adult.
+ A Halfling Female who works for the Halfling Guild on covert missions. She appears to be a young adult. Brown hair and three feet tall.

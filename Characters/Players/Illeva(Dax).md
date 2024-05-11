@@ -1,6 +1,7 @@
 Illeva (Dax)
-Lvl 1 | Elf | Monk
+Lvl 2 | Elf | Monk
 
+Max Health: **15**
 Stats         STR +1, DEX +4, CON +1, INT +3, WIS +2, CHA +1
 Saving Throws STR +3, DEX +6, CON +1, INT +3, WIS +2, CHA +1
 Passive Perception:     14
@@ -17,6 +18,12 @@ Short Range Teleportation Device: Limit of 100ft
 Martial Arts: Use Dex instead of strength for attack and damage rolls.
 Fey Ancestry: Advantage on saves to being charmed and magic cannot put you to sleep.
 Trance: 1 hour of rest equals 2 hours of rest compared to humans.
+Christmas Star Shard: **0/1** uses per long rest. Gain (level)d10 health
+
+Ki Features: **0/2** per short rest.
+Flurry of Blows: Use 1 Ki point to make two unarmed strikes as a bonus action.
+Patient Defense: Use 1 Ki point to use the dodge action as a bonus action.
+Step of the Wind: Use 1 Ki point to take the Disengage or Dash action as a bonus action. As well jump distance is doubled.
 
 Background: Acolyte:
 Feature: Shelter of the Faithful
@@ -34,7 +41,7 @@ Hair:        | White
 Skin Color:  | Light Brown
 Age:         | 25
 Weight:      | 130lb
-Money:       | 50
+Money:       | 27
 Carrying:    | 5/195lb
 
 DM Notes:

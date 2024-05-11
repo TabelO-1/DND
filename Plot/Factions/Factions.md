@@ -25,7 +25,7 @@ Kuiper Belt Strength: How strong a faction's position is in the Kuiper Belt. Div
  * Faction Alignment: Neutral Evil
  * HQ: Venus I Major Orbital Colony 
  * Bases: Mercury II Minor Orbital Colony, Jupiter I Major Orbital Colony, Kuiper West
- * Player Reputation: 4
+ * Player Reputation: 1
  * Kuiper Strength: 6
 
 ## The Miners
