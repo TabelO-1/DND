@@ -5,3 +5,5 @@ The Laughing Rose: A quiet bar in the Upper Slums with few patrons. It has few p
 The Chruch of Astral Beliefs: An interesting little Chruch that worships the Astral plane.
 
 Crowded Apartments: A huge section of tiny crowded apartments where the people live only out of pure neccesity.
+
+Convience Store: Abandoned.

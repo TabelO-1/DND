@@ -64,7 +64,7 @@ Kuiper Belt Strength: How strong a faction's position is in the Kuiper Belt. Div
  * Bases: Small Chruch(Mars City)
 
 ## Vitral Gangsters
- * Description: A group of nasty gangsters who extort the people of the VIOC Lower Slums.
+ * Description: A group of nasty gangsters who extort the people of the VIOC Lower Slums. All have a red bandana on the right arm with a blazing sun.
  * Faction Goal: To accumlate as much wealth as possible.
  * Faction Alignment: Choatic Evil
  * HQ: Vitral Pub, Lower Slums(VIOC)

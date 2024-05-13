@@ -3,6 +3,8 @@ The whole party got blown up. Brain damage.
 Angry Mother Nature Goddess
 Retribution over Marauder station.
 Jump-gate error.
+Bad Bagpipes Man
+Thurmor(Brian) fucked an Elf Prostitute
 
 Tyler escaping to the spire bottom.
 Guardian of the Sea: Dax's character's God

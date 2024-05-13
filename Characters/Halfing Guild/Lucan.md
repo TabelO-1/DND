@@ -4,4 +4,4 @@
  * Health: 30
  * Armor Class: 14
  * NPC Description:
- Rather well dressed Halfling Male.
+ Rather well dressed Halfling Male. Brown hair and brown eyes

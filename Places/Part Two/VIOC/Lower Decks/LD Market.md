@@ -31,7 +31,7 @@ Nitrogen: 5gp per quart
 Argon: 15gp per quart
 
 Food Court:
-Gar Bar
+Gay Bar
 Vegetable Store
 General Food Shop:
 Foods people can think of: 3gp to just have that food.
