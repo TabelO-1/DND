@@ -1,6 +1,5 @@
 # DM Notes:
 
-Get party with some pickpockets Session 15
 Average Lv1 Player Health: 11.8
 Average Lv2 Player Health: 19.8
 

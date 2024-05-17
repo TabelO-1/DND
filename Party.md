@@ -25,7 +25,3 @@ Current Numbers:
 2: Bryson
 3: Boroka
 4: Brian
-
-Bryson has a room at the golden goat inn. Paid
-
-Boroka had 100 gp stolen

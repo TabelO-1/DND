@@ -53,6 +53,7 @@ Kuiper Belt Strength: How strong a faction's position is in the Kuiper Belt. Div
  * Bases: Marauder Station, Phobos Base(Moon of Mars), Ceres Base(Asteroid in the Asteroid Belt), Black Market VIOC
  * Player Reputation: 1
  * Kuiper Strength: 1
+ * Symbol: A shining silver moon on a dark red background.
 
 # Minor Factions:
 
@@ -64,15 +65,18 @@ Kuiper Belt Strength: How strong a faction's position is in the Kuiper Belt. Div
  * Bases: Small Chruch(Mars City)
 
 ## Vitral Gangsters
- * Description: A group of nasty gangsters who extort the people of the VIOC Lower Slums. All have a red bandana on the right arm with a blazing sun.
+ * Description: A group of nasty gangsters who extort the people of the VIOC Lower Slums. All have a red bandana on the right arm with a blazing sun. The faction is a sister faction to the Marauders, the Gangsters essentially make up a affiliated branch of the Marauders.
  * Faction Goal: To accumlate as much wealth as possible.
  * Faction Alignment: Choatic Evil
  * HQ: Vitral Pub, Lower Slums(VIOC)
  * Bases: N/a
+ * Symbol: A blazing gold sun on a red background
 
 ## Halfling Guild
- * Description: Halflings who have banded together to sell goods at markets.
+ * Description: Halflings who have banded together to sell goods at markets. The Guild is about a decade old.
  * Faction Goal: To spread their business as far as possible while maintaining goodwill and law.
  * Faction Alignment: Lawful Good
  * HQ: Undetermined
  * Bases: Market Building, Lower Slums(VIOC)
+ * Symbol: A lapis blue Earth on a steel gray background.
+ * Founder: Liana Lightenfoot
