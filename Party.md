@@ -20,8 +20,3 @@ Thurmor Halfhead: 12
 Broke(Bryson): 10
 Carl Drakea(Tyler): 10
 
-Current Numbers:
-1: Dax
-2: Bryson
-3: Boroka
-4: Brian
