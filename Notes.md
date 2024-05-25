@@ -3,8 +3,10 @@
 Average Lv1 Player Health: 11.8
 Average Lv2 Player Health: 19.8
 
+Sylva has Illeva's Shotgun.
+
 NAT20s on attack rolls: MAX Possible Damage with that attack/weapon + a normal roll.
-Dax Prays/Medatates: 2
+Dax Prays/Medatates: 3
 
 ### Ammunition Ruling:
 General Ammunition Rules: **No Limit on the number of rounds you have but you have to reload your clip after it's empty.** Below is outlined general rules for clips for guns and exceptions:
