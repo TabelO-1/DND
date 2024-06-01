@@ -19,6 +19,10 @@ Betral or Suprise alliance
 Kill a NPC
 Recurring Enemy
 
+
+
+
+
 To Visit once upon a time:
 Ancient Ruins
 Haunted Mansion

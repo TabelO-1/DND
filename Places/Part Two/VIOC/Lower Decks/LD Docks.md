@@ -3,3 +3,5 @@ Upon entering the station from the dock the players will need to get Civilian ID
 Inside the docks there can be found many cargo holds and shipment based jobs and ships. 
 The docks also have ships that lead down to Venus and the safe(and unsafe) mining zones.
 The area is patrolled by VC Guards.
+
+Dock 12-C is a private dock owned and ultized by AstroCorp to take covert actions out on the station, as they were banned from coming to the station.

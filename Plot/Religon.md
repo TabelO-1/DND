@@ -1,0 +1,1 @@
+The Chruch of Astral Beliefs believe in dieties beyond this reality in other dimensions, specifically those in the Astral Plane but they acknowledge others, such as the Guardian of the Sea.
