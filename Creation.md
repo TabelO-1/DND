@@ -1,6 +1,7 @@
 Creating rooms:
 
 Ensure water sources are available for Dax.
+Offer rest areas
 
 
 Magic can be countered is a few ways:
