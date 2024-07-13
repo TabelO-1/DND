@@ -4,7 +4,7 @@ The party then easily broke out and killed all the pirates then escaped...did th
 
 After the escape you flew through a strange object that warped space-time and lead you to an orbital station. The authorities forcefully turned you away but an independent actor named Jayli Marrel, who allowed you to land at her landing platform on the lower decks.
 
-Your party then explored around, finding cat food, a black market, , and that Carl(Tyler) was arrested for an impressive list of crimes. Those charges are:
+Your party then explored around, finding cat food, a black market, and that Carl(Tyler) was arrested for an impressive list of crimes. Those charges are:
 
 Owning a firearm without a permit.
 Unjustified use of lethal force

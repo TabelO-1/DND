@@ -28,7 +28,7 @@ Kuiper Belt Strength: How strong a faction's position is in the Kuiper Belt. Div
  * Player Reputation: 1
  * Kuiper Strength: 6
 
-## The Miners
+## The Coalition of Miners
  * Description: Miners who work under terrible conditions and get little pay. They have united into a faction to advocate for themselves.
  * Faction Goal: To negotiate for better working conditions for themselves.
  * Faction Alignment: Neutral

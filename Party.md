@@ -1,19 +1,19 @@
 Initative:
 
-Dax: 24
-Bryson: 16
-TJ(Sylva): 13
-Boroka: 11
-Brian: 10
+Dax: 
+Bryson: 
+TJ(Sylva): 
+Boroka: 
+Brian: 
 
-Dax: 1
-TJ: 2
-Brian: 3
-Boroka: 4
+Boroka: 1
+Dax: 2
+Bryson: 3
+TJ: 4
 
 **Health:**
 Tyler: 25/25
-Bryson: 21/20
+Bryson: 36/20
 Brian: 18/20
 Boroka 19/19
 Dax 24/15
@@ -30,3 +30,5 @@ Carl Drakea(Tyler): 10
 232: Boroka
 
 Year 2301
+
+Leshanna Liadon. A older appearing female elf with brown hair that wears a grey dress and holds a cracked smile in her face.
