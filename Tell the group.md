@@ -38,3 +38,6 @@ Location: Right next to the Upper Checkpoint in the refining district.
 
 The Refining District:
 A warm and bright place where raw resources and gases are refined for the station's countinued operation and commerce.
+
+Brian:
+You ran away with everyone else before getting seperated from the others after running into an alley way, you ended up behind a hospital where you found a decent enough place to sleep.

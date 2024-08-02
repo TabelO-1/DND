@@ -11,7 +11,7 @@
  She is brave in the face of politics and some conflict but hasn't seen true conflict yet.
 
  Flaws:
- Foolhardy positivity: Even when things aren't going well or don't seem to have a high probablity of sucess she clings to hope and positivity where others would have quit or backed out.
+ Foolhardy positivity: Even when things aren't going well or don't seem to have a high probablity of success she clings to hope and positivity where others would have quit or backed out.
 
  History:
  Moved from the Earth Orbital Station to VIOC when she was a teenage with her family and she began to make a name for herself amongst the halfings. She gave up her nice and lofty position and home in the upper levels of the station to come to the lower levels and formed the Halfing Guild to help her kind but others as well.

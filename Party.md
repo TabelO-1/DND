@@ -1,15 +1,16 @@
 Initative:
 
-Dax: 
-Bryson: 
-TJ(Sylva): 
+Dax: 1
+Brian: 2
+Bryson: 3
+TJ(Sylva): 4
 Boroka: 
-Brian: 
 
 Boroka: 1
 Dax: 2
 Bryson: 3
 TJ: 4
+Brian: 5
 
 **Health:**
 Tyler: 25/25
