@@ -18,7 +18,7 @@ Kuiper Belt Strength: How strong a faction's position is in the Kuiper Belt. Div
  * Kuiper Strength: 6
 
 ## The Coalition of Miners
- * Player Reputation: 5
+ * Player Reputation: 2
  * Kuiper Strength: 1
 
 ## Sovereign Earth Government

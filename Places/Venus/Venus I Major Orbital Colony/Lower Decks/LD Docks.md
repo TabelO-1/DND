@@ -5,3 +5,5 @@ The docks also have ships that lead down to Venus and the safe(and unsafe) minin
 The area is patrolled by VC Guards.
 
 Dock 12-C is a private dock owned and ultized by AstroCorp to take covert actions out on the station, as they were banned from coming to the station.
+
+1-A is the Mining Guild's dock.

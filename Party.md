@@ -3,8 +3,8 @@ Initative:
 Dax: 1
 Brian: 2
 Bryson: 3
-TJ(Sylva): 4
-Boroka: 
+TJ(Sylva):
+Boroka: 4
 
 Boroka: 1
 Dax: 2
@@ -26,10 +26,8 @@ Thurmor Halfhead: 12
 Broke(Bryson): 10
 Carl Drakea(Tyler): 10
 
-132: Dax and TJ
-191: Brian
-232: Boroka
 
-Year 2301
+
+Year 2301.09.08
 
 Leshanna Liadon. A older appearing female elf with brown hair that wears a grey dress and holds a cracked smile in her face.

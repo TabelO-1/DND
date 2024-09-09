@@ -18,7 +18,7 @@ Neutral. The Coalition of Miners operates with the intent of securing justice an
 
 **Player Reputation**:
 
-5 (Neutral). The Coalition of Miners has a neutral stance towards the players. Interactions are likely to be professional or indifferent, with no particular hostility or favor.
+2 (Unfriendly). The Coalition of Miners has a neutral stance towards the players. Interactions are likely to be professional or indifferent, with no particular hostility or favor.
 
 **Kuiper Strength**: 
 

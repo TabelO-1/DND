@@ -35,7 +35,7 @@ Hair:        | Brown
 Skin Color:  | White
 Age:         | 28
 Weight:      | 240lb
-Money:       | 175
+Money:       | 25
 Carrying:    | 45/180lb
 
 DM Notes:
