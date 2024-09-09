@@ -1,0 +1,2 @@
+Dragon Door Opening: (100g) A ring that opens doors as if a dragon opened it with full force, provided the door is unlocked.
+Cloak of Teleportation (100g): A cloak that teleports you five feet in a random direction.

@@ -3,7 +3,7 @@ Control Spire: This is where the station is controlled by the Conglomerate and m
 Trade Center and High-Class Living: This is where the station's mining is bought and sold, along with where the high-class individuals live. It is also where the station's orbital thrusters (what it uses to stay afloat) are located: It can be broken down into the following three subsections:
   1. Center Spire: A spire that has the main elevator that runs through the entire station.
   2. East Side: The East Half of the Station is mainly dedicated to the homes of the Rich.
-  3, West Side: The west side is dedicated to business and has its own docks.
+  3. West Side: The west side is dedicated to business and has its own docks.
 Station Center: The Center of the station and the least populated, it's divided into three subsections:
   1. Top Section: Contains the Main Gravity Generator and its workers.
   2. Middle Section: Contains the Main Power Reactor and its workers.
