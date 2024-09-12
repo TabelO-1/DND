@@ -1,6 +1,4 @@
-1. Rival team/Create internal rivalaries(Dax/Brian at odds for Emperor/Anarchy or more!)
-2. Factions need to be active.
-3. Create Ammo Rules
-4. Create Food Rules
-5. Create Ration Rules.
-6. Design Story for the Guardian of the Sea
+1. Design Story for the Guardian of the Sea
+2. Music?
+3. Rival team/Create internal rivalaries(Dax/Brian at odds for Emperor/Anarchy or more!). Recurring enemy characters.
+4. Factions need to be active.

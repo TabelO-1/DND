@@ -1,27 +1,33 @@
 Initative:
 
-Dax: 15
-Brian: 8
-Boroka: 8
-Bryson: 6
-TJ(Sylva): 4
-Police: 3
+Dax: 1
+Brian: 2
+Bryson: 3
+TJ(Sylva):
+Boroka: 4
+
+Boroka: 1
+Dax: 2
+Bryson: 3
+TJ: 4
+Brian: 5
 
 **Health:**
-Tyler: 21/25
-Bryson: 20/20
-Brian: 10/20
+Tyler: 25/25
+Bryson: 36/20
+Brian: 18/20
 Boroka 19/19
-Dax 15/15
+Dax 24/15
 
-Average Lv1 Player Health: 11.8
-Average Lv2 Player Health: 19.8
+Passive Perception:
+Boi(Boroka): 14
+Illeva(Dax): 14
+Thurmor Halfhead: 12
+Broke(Bryson): 10
+Carl Drakea(Tyler): 10
 
-Current Numbers:
-1: Dax
-2: Bryson
-3: Boroka
-4: Brian
 
-NAT20s on attack rolls: MAX Possible Damage with that attack/weapon + a normal roll.
-Dax Prays/Medatates: 0
+
+Year 2301.09.08
+
+Leshanna Liadon. A older appearing female elf with brown hair that wears a grey dress and holds a cracked smile in her face.

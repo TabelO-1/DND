@@ -1,8 +1,18 @@
-The primary antagonist lurks within the ranks of the Venus Conglomerate, pulling strings as the shadowy vice president behind the puppet CEO. This figure, an ancient being or wizard with roots tracing back to the days of Rome, has held sway over the conglomerate since its inception. With each demise, he reincarnates, perpetuating a cycle of malevolence across the annals of history. From the corridors of Roman power to the conquests of Genghis Khan and the atrocities of Hitler, his presence has cast a dark shadow upon humanity.
+Damien Cross is the Vice President of the Venus Conglomerate. 
 
-Despite his nefarious machinations, it was his actions that led to the Earth's desolation, orchestrating events that plunged the planet into a wasteland. Even in past lives, traces of his cunning can be found, such as recorded instances where he successfully campaigned against climate change policies to destabilize governments. Yet, despite his efforts, some schemes faltered, such as his failed bid to overthrow established authorities by wrecking the Mars Jump Gate, preventing others from rising to power in space.
+He is an ancient wizard from the earliest days of civilization. He has wanted to hold power for thousands of years and did so during ancient eras of conquests and colonization. He spent each life in positions of priviledge or nobility that fueled his desires. However during the age of rebellion and change he lost everything.
 
-Driven by an insatiable hunger for dominion, his ultimate goal remains the conquest of all life. Presently, he navigates the intricate web of factions, suppressing dissent and manipulating events from the shadows. His eyes are set on the Kuiper Belt, a trove of resources that would grant him unparalleled power. To bolster his agenda, he employs the Marauders, orchestrating attacks to justify amassing a formidable "defensive" fleet. But even as his schemes unfold, he knows that challenging the government directly remains a daunting task.
+He didn't give up on his machinations and influenced many terrible events and wars during industrial eras and is personally responsible for several of these events. As the civilization turned to the space age they found that their industrial way of living was destroying their world and wanted to start moving towards renewable energy sources.
+
+His ancient mind saw an opportunity and quickly began getting industrial groups to lobby against these changes. After a long battle where the environmentalists and industrialists went back and forth while the planet detrioated faster and faster.
+
+While the SpaceX went about their Mars Colonization Mission he sabatoged the Mars Jump Gate to ensure his rising company, at the time known as Morrowbane Enterprises, could maintain it's growing monopoly on space.
+
+As civlization transferred into space he was known at the time as Lucian Morrowbane. Lucian Morrowbane changed the company to be known as the Venus Conglomerate when they setup their HQ on the Venus I Major Orbital Colony.
+
+Now his grandson runs the company and his next reincarnation is Damien Cross. He controls Alexander to do his will. Damien wants to control everything, everyone. His ultimate goal is a conquest over all. Presently he is attempting to supress a web of factions to gain enough power. 
+
+Right now his eyes are set on the Kuiper Belt, which has newly discovered riches that would grant him enough power to take down everyone else. To bolster his agenda he employs the Marauders, in which he uses to justify the company amassing a formidable "defensive" fleet.
 
 Methods of spreading his influence:
 

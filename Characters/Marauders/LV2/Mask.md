@@ -1,1 +1,0 @@
-A character wearing a mask and is in charge of black market guns on Venus I Major Orbital Station
