@@ -8,7 +8,7 @@ Captain (Nara) Imra - Marauder Lieutenant, Human Female. Arrested during a raid 
 
 General Population
 
-Valden Visurnhammer - a Miners faction leader. Imprisoned for leading a protest.
+Marx the Cyborg - a Miners faction leader. Imprisoned for leading a protest.
 Brek the Brute - Feared for his strength and violence. He fights in the Arena and runs the General Cells, well so he thinks.
 
 The Arena - 

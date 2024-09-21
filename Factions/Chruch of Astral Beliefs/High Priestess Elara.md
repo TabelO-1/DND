@@ -21,3 +21,5 @@
 
  Spells:
  tbd
+
+ Player interactions: The Priestess indirectly sent them after a jump-gate conduit through a third party to access the Priestess' elevator id. It is unknown how the priestess has one, or what she uses it for.
