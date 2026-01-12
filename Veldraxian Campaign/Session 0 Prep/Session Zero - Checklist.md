@@ -7,7 +7,7 @@ Discuss Rules and preferences.
 Character and Party Creation / Introduction
 
 Basic Info - Questions
-Introduce Guardrails. SISTER
+Introduce Guardrails. 
 
 Party Cohesion - Discuss what kind of party - Neutral, Good, Evil
 Backstory creation, weave it into the campaign.
@@ -25,7 +25,7 @@ What to do? When/where, how long, what to do if one person can't or doesn't show
 Under what conditions will a game be cancelled, if physically when will we have a virtual meeting instead?
 
 Digital Sheets - Fine.
-Physical Meeting? Virtual Meeting? Tyler?
+Physical Meeting? Virtual Meeting?
 
 Campaign Length: IF meeting weekly (biweekly?), how long should I plan this campaign to run? 
 
@@ -59,3 +59,5 @@ Player Input on campaign creation. Campaign is still in early planning stages an
 Acessibility of Magic? General Level of Technology? Primary Adventuring Environments? Major threats? Main Story Themes? Linear/Non Linear Structure? Connecting Characters and the setting?
 
 Come with a few ideas for characters
+
+multiclassing allowed
