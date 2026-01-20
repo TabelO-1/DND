@@ -16,7 +16,7 @@ For the first time since he guided your early steps, the Grandfather needs you. 
 
 ### Opener
 
-When the players arrive, the Grandfather will attempt to tell them of the Kingdom's Corruption and how the people starve but the Royal Army comes. The PCs are allowed to flee only by the Grandfather's intervention, sealing their escape. They are given his bag, with a note to find a Marrek in Stonebridge.
+When the players arrive, the Grandfather will attempt to tell them of the Kingdom's Corruption and how the people in the north starve but the Royal Army comes. The PCs are allowed to flee only by the Grandfather's intervention, sealing their escape. They are given his bag, with a note to find a Marrek in Stonebridge.
 
 They Flee, travelling north to Stonebridge, learning they are wanted by the Kingdom, but the descriptions are vague, not enough for them to be pinned down.
 
@@ -27,7 +27,7 @@ Marrek tells them more about the Grandfather's past (once a great adventurer), a
 
 Throughout this they will see the suffering of the people. Children without enough food to eat, corrupt guardsmen, nobles, and other corruption at the cost of the people of the realm.
 
-### Noble's Party
+### Noble's Party at Crownspire
 
 The Noble will be rather forthcoming about the PCs questions. Answering some things clearly, others vaguely. He will speak of the Grandfather, who opposed the Crown and his decisions. He knows the Grandfather was alive, but not where he was imprisoned. He does however know he was taken after being taken to his palace.
 
@@ -35,6 +35,10 @@ The Noble will be rather forthcoming about the PCs questions. Answering some thi
 
 ???
 
+### Destruction of Stonebridge
+
+The Party attempts to defend the city with the troops but are overwhelmed as the Royal Army takes and destroys the city. They learn the King has ordered its destruction. The Forming Nobles Rebellion decides that now is the time to strike against the king. Your task is now to eliminate the king.
+
 ### Grand Conclusion
 
-The Party storms the Throne Room, expecting to find the King, but instead they find the Grandfather resting on the throne, greeting them fondly, telling them the time of the King's corruption was over. He asked that they join him, take over the kingdom, dismantle the corrupt institutions that left the people starving. A battle will commence if they don't join him, between the party if the answer is split, and if with the Grandfather, against the Royal Guard.
+The Party storms the Throne Room, expecting to find the King, but instead they find the Grandfather resting on the throne, greeting them fondly, telling them the time of the King's corruption was over. He asked that they join him, take over the kingdom, dismantle the corrupt institutions that left the people starving. They learn that the Grandfather had been acting as king for some time, and had ordered the destruction of Stonebridge, claiming that it was necessary to force a rebellion to tear down the kingdom and that they would arise from the top of it, to rule. A battle will commence if they don't join him, between the party if the answer is split, and if with the Grandfather, against the Royal Guard.
