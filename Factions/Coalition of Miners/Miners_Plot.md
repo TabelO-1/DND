@@ -1,4 +1,0 @@
-Three major leaders of the miners faction and each leader if they gain prominance over the others will have a unique plot path they attempt.
-Balden Drillhand - He believes in becoming the best miners in the galaxy, but under their own leadership. 
-Marx the Cyborg - Believes in the communist manifesto. His leadership will cause the miner faction to become a communist faction seeking to equalize everything and will seek to fight the corporations and the government.
-Vanessa - Secretly a spy for the Venus Conglomerate. She parades for more worker rights but is secretly undoing the faction from the inside. If given a chance to lead she will destroy the faction.

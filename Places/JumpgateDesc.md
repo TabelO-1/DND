@@ -1,1 +1,0 @@
-A Gate that glows around the edges and warps time in the middle. The gate's effect seems to distort towards the middle.

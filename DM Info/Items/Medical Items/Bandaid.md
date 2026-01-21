@@ -1,1 +1,0 @@
-Heal 1d6 health

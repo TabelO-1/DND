@@ -1,1 +1,0 @@
-See Page 89 of DMs Guide for NPC creation.

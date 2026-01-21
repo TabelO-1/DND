@@ -1,1 +1,0 @@
-Bryson purchased a gun or two from them and during a visit to save Slyva(Halfling Guild Member) the cops got onto them. They haven't connected the dots as of *Session 13*

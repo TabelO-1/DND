@@ -1,1 +1,0 @@
-Darkvision can't discern color, and changes darkness into dim light. Dim light means you have disadvantage on perception checks (unless you're using something like smell) and a -5 to your passive perception. That's a pretty big limitation that many DMs and players ignore.

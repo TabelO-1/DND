@@ -1,1 +1,0 @@
-Heal 1d10 Health

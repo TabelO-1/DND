@@ -1,1 +1,0 @@
-Causes a successful death save. Only usable by a doctor.

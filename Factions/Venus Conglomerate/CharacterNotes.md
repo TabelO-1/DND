@@ -1,1 +1,0 @@
-The Characters attempted to illegally land at Venus I Major Orbital Colony and was turned away and later illegally landed. The party then caused violence, Tyler was arrested and Brian was shooting shots into the air. Bryson killed a couple cops too.

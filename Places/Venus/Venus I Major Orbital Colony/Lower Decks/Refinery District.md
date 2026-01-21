@@ -1,3 +1,0 @@
-Refineries
-
-Conglomerate Mining Office - 

@@ -1,0 +1,1 @@
+These dockyards have hundreds of ships in coming and ongoing at any given time, it is right below the high-class and trade sections, giving them perfect access. Here there is only docks for landing, loading and unloading, customs officals run around inspecting cargo and such.

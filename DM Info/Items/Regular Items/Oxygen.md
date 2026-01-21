@@ -1,1 +1,0 @@
-Oxygen Canister: Supplies 3 hours of oxygen
