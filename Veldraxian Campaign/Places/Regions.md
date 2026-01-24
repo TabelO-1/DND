@@ -28,6 +28,8 @@ Highreach is an outlier for most of the Kingdom, as it is full of rough terrain,
 
 Along the border with the Harth Region, where the hills begin to thin out, a path leads you west. It leads you to the only Major Orcish Village in the Kingdom. Travellers known to avoid this way, and the royal army patrols to prevent orc attacks from hitting regional villages. Despite the Royal Army able to crush the orcs, whenever they send a force to destroy the village, the Orcs somehow always know, and pack up everything important and flee into the hills where they have not ever been caught.
 
+Along the border with the Greenwooud Verge Region, just north of where the Serevan splits, and off of the road, lies a Tabaxi village, hidden to travelers but close enough for the Tabaxi to reach the road.
+
 ## Stonebridge
 Situated south of the **Elderward**, the stonebridge region is named after the City of Stonebridge. The region follows the Valenreach river, with a few villages along the trading path and is made up mostly of grassland. To the south of the region, across the river leads the roads that take you to Greenwood Verge and Eldermere. This area is sparsely populated and home mix of grasslands, bushes, and the occasional grouping of trees. On its most Eastern part, lies the city of Lakehold, which rests on Lake Elarion. Across which is the Warding Weald. The Region is generally prosperous, known for its vineyards and orchards, along with the ancient stone crossing the Stonebridge propped up around.
 
