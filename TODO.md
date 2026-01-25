@@ -1,0 +1,4 @@
+ - Finish GreenrestMake.md
+ - Create Southern Monastery
+ - Give players world info (Arthur, Hazel)
+ - Map scale and distance

@@ -4,7 +4,3 @@ CHECK 2. Create the Village
 3. Create the NPCs
 4. Create the Grandfather
 5. Design Coming Home Scene, Grandfather welcoming back, Dinner scene. The second morning
-6. Design Flight Scene, Royal Army, Captain, and Grandfather Wizard.
-7. Bag and Fleeing Time
-
-8. Southern Monastery
