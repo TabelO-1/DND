@@ -14,31 +14,103 @@ Written in his familiar hand, sealed with his simple crest. A message short and 
 
 For the first time since he guided your early steps, the Grandfather needs you. What awaits in your former home is unclear, but the call is unmistakable. Whatever lies ahead, it will shape not just your future, but the future of the entire Kingdom.
 
-### Opener
+# Campaign GM Summary — *The Breach Beneath Veldraxi*
+## Core Truth (GM Only)
 
-When the players arrive, the Grandfather will attempt to tell them of the Kingdom's Corruption and how the people in the north starve but the Royal Army comes. The PCs are allowed to flee only by the Grandfather's intervention, sealing their escape. They are given his bag, with a note to find a Marrek in Stonebridge.
+Thousands of years ago, an extraplanar breach formed between the Material Plane and another hostile plane of existence. Through this breach exists one ancient extraplanar entity, unable to fully cross without a powerful anchor. The ancients did not destroy it; instead, they built a distributed containment system of seals across the land to delay its arrival.
 
-They Flee, travelling north to Stonebridge, learning they are wanted by the Kingdom, but the descriptions are vague, not enough for them to be pinned down.
+The seals were never meant to be permanent. They were designed to degrade slowly, bleeding pressure harmlessly over centuries.
 
-### Stonebridge
+The Grandfather’s Past Mistake
 
-They find that with no local reputation with the Adventurer's Guild, they are not trusted, but after completing a few jobs eventually they will be introduced to Marrek.
-Marrek tells them more about the Grandfather's past (once a great adventurer), and they show him the Grandfather's signal and tell him of the events that befell them. He offers more information and guidance "remain here, continue to be adventurers. I will investigate the rumors of where he could have gone." Marrek will get information as to the Noble that ordered his capture. He hosts an invite only event every year at his Palace. The party's goal is to get invited, either as staff or with another ground, or get directly invited.
+During his adventuring career, the Grandfather and his party encountered failing seals and extraplanar disturbances. Believing the system was simply breaking down, they repaired and reinforced the seals, successfully halting the threat.
 
-Throughout this they will see the suffering of the people. Children without enough food to eat, corrupt guardsmen, nobles, and other corruption at the cost of the people of the realm.
+This worked — but it was a mistake.
 
-### Noble's Party at Crownspire
+By restoring the seals beyond their intended lifespan, they:
+• Prevented natural pressure release
+• Forced the breach creature to adapt
+• Compressed centuries of instability into decades
 
-The Noble will be rather forthcoming about the PCs questions. Answering some things clearly, others vaguely. He will speak of the Grandfather, who opposed the Crown and his decisions. He knows the Grandfather was alive, but not where he was imprisoned. He does however know he was taken after being taken to his palace.
+The Grandfather unknowingly accelerated the final breach.
 
-### Inbetween???
+He retired believing the danger ended.
 
-???
+## Campaign Starting State (Level 2) - Act I
 
-### Destruction of Stonebridge
+The breach is active but incomplete.
+The creature cannot fully cross.
+The seals are drawing strong monsters and extraplanar anomalies.
 
-The Party attempts to defend the city with the troops but are overwhelmed as the Royal Army takes and destroys the city. They learn the King has ordered its destruction. The Forming Nobles Rebellion decides that now is the time to strike against the king. Your task is now to eliminate the king.
+The Grandfather knows:
+• An ancient power is rising
+• It is tied to the seals
+• He is no longer strong enough to face it alone
 
-### Grand Conclusion
+He does not yet know:
+• The seals cannot be permanently repaired
+• He caused the acceleration
+• He will become the vessel
 
-The Party storms the Throne Room, expecting to find the King, but instead they find the Grandfather resting on the throne, greeting them fondly, telling them the time of the King's corruption was over. He asked that they join him, take over the kingdom, dismantle the corrupt institutions that left the people starving. They learn that the Grandfather had been acting as king for some time, and had ordered the destruction of Stonebridge, claiming that it was necessary to force a rebellion to tear down the kingdom and that they would arise from the top of it, to rule. A battle will commence if they don't join him, between the party if the answer is split, and if with the Grandfather, against the Royal Guard.
+He asks the party to:
+• Form an adventuring party
+• Grow stronger
+• Take guild work (Stonebridge, via Marrek)
+• Occasionally investigate seal-related disturbances
+
+Others would believe him mad.
+
+## Mid-Campaign Truth (Level 4–5) - Act II
+
+The party uncovers ancient records revealing:
+• The seals were meant to degrade
+• Repairing them increases pressure elsewhere
+• The system is obsolete in a centralized kingdom
+
+The Grandfather realizes the truth alongside them:
+• His earlier success caused this crisis
+• The breach cannot be fixed
+• The entity is adapting and waiting
+
+This breaks him — but clarifies his resolve.
+
+## The Final Plan (Level 6–7) - Act III
+
+The seals cannot stop the breach anymore.
+The entity needs a powerful living anchor to cross fully.
+
+It chooses the Grandfather:
+• He is magically attuned to the seals
+• He has bound it before
+• He is the strongest available vessel
+
+The Grandfather travels with the party to the central ancient dungeon, built as a last-resort confrontation site. He intends to bring the entity somewhere it can be ended.
+
+## Final Revelation & Boss Fight - Act IV
+
+Inside the dungeon:
+• The entity partially crosses
+• It possesses the Grandfather
+• It cannot fully manifest yet
+
+The Grandfather retains enough control to tell the party the truth:
+
+If the entity fully crosses, it will be unstoppable.
+While its essence is bound to him, it can be banished.
+The only way is to kill him.
+
+This is true.
+
+**Final Battle**
+
+The party fights the possessed Grandfather, not the creature directly.
+• He actively resists the entity
+• He weakens himself to help them
+• The environment shows planar instability
+
+When he is slain:
+• The entity is forcibly banished
+• The breach collapses
+• The seals burn out, their purpose fulfilled
+
+The threat is ended for this age.

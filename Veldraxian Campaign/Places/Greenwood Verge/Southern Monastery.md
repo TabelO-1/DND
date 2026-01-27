@@ -1,0 +1,1 @@
+South of Greenrest, there is a monastery where Shadow lives. A day's journey south of greenrest.

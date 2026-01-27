@@ -1,1 +1,0 @@
-Starting Village, where the Grandfather Resides
