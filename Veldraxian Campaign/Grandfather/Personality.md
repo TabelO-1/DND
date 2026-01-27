@@ -18,7 +18,7 @@ This is his greatest strength, and eventual flaw.
 
 # With PCS
 
-With **Aegis**, he speaks as a fellow scholar. He asks questions rather than gives answers, nudging him toward conclusions. He respects Aegis’ discipline and restraint, and when he offers praise, it is rare and meaningful. He will frame the threat in terms of knowledge lost, systems misunderstood, and mistakes made by those who thought they were fixing things.
+With **Aeris**, he speaks as a fellow scholar. He asks questions rather than gives answers, nudging him toward conclusions. He respects Aeris’ discipline and restraint, and when he offers praise, it is rare and meaningful. He will frame the threat in terms of knowledge lost, systems misunderstood, and mistakes made by those who thought they were fixing things.
 
 With **Quenlith**, he is careful not to sound disappointed. He acknowledges who she was without judging it, and focuses on who she chose to become. He frames the danger as something that preys on people trying to escape their pasts. He trusts her instincts implicitly, even when they conflict with law or tradition.
 

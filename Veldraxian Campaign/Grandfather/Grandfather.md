@@ -35,3 +35,4 @@ The tragedy of the Grandfather is not that he failed to save the world.
 It is that he succeeded for too long.
 
 ### Notes:
+The seal he uses is of a wizard tower that looks like his wizard tower.
