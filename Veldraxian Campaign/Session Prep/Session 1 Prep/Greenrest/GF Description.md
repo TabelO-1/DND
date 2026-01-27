@@ -1,0 +1,5 @@
+Age has claimed the Grandfather, and not kindly.
+
+The man that greets you still stands tall, but his posture has softened with years. His hair, once gray has faded into a blend of silver and white, it was once kept tied up, but now hangs loose, reaching his shoulders. A full beard frames his face, drooping below his chin, which is paler than you remember. His face carries the heritage of a half-elf. lines of age are there, but his features retain a sharpness that no aging quite ever erases. His eyes, clear and alert, study you with warmth first and curiosity second.
+
+He dresses simply for a wizard of his reputation, his grand robes set aside for simpler ones. His robes are in an earthly tone and are slightly frayed at the edges. He carries a wooden staff with him, its surface polished smooth, It is straight and unadorned, save for the small runes that spiral its length. The head of the staff is capped with a simple metal band that cradles a dull and cloudy yellow crystal. Nothing about him radiates strength, and yet when you look at him, something of him betrays his immense power.

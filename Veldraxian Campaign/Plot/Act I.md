@@ -1,6 +1,6 @@
-Act I — The Quiet Years Ending
+# Act I — The Quiet Years Ending
 
-Act I Purpose
+**Act I Purpose**
 
 Act I exists to establish trust, normalcy, and pattern recognition. The party is not saving the world yet. They are solving problems that feel local, reasonable, and even mundane. The goal is for the players to believe they are in a grounded campaign about a strained kingdom, strange wilderness, and an aging mentor who needs help tying up loose ends.
 
@@ -14,7 +14,7 @@ The Grandfather knows something is wrong, but he does not yet know what. His let
 
 Importantly, he does not believe the world is ending. He believes it is slipping.
 
-Session 1 — The Call and the Return
+**Session 1 — The Call and the Return**
 
 The first session should be almost entirely personal.
 
@@ -26,7 +26,7 @@ This matters. He does not frame this as destiny. He frames it as responsibility.
 
 He encourages them to form an official adventuring party and take guild work in Stonebridge through Marrek. He frames this as a way to stay active, earn coin, and “keep an eye out” for unusual disturbances. He is careful not to sound paranoid.
 
-Early Act I Jobs — Normal Problems, Wrong Details
+**Early Act I Jobs — Normal Problems, Wrong Details**
 
 The first few jobs should be extremely grounded.
 
