@@ -3,3 +3,5 @@ You will all be a 2nd-Level Character, and the only requirement for your backsto
 
 Characters Stats: 4d6 drop the lowest.
 Milestone Advancement.
+
+Crit Rules: Take the max damage for an attack roll (and modifier) and then roll for damage after that.

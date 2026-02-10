@@ -25,7 +25,7 @@ The Grandfather is old, and one of his past victories was not so. Ancient Seals 
 
 **Grandfather State**: Happy to see those he knows well, glad to cook for them even if he's terrible at it. He's worried about the failing seals but is confident they will succeed. 
 
-**Successes:** 
+**Successes**:
 I had worried about the dialogue feeling too monologue-y, but the natural interruptions of Tolin allowed for speech to get across as more natural. I was also able to handle impromptu random immature statements with grace. 
 
 **Work on it**: Allowed too many pauses for Tolin to interrupt, some are good but not too many. Work on remembering dialogue better and spend less time glancing at my reference material / script.

@@ -1,0 +1,1 @@
+Print out a copy of Shelby's Character Backstory and attach it to her character sheet.
