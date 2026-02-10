@@ -1,5 +1,5 @@
 # Session One:
-The had slowly trickled into town, each deciding to stop at Stefan's Tavern. Aeris, Tolin, and Quenlith all met up, realizing they were here for the same reason. Shadow watched and overheard but decided to wait outside for the others. Aeris left first, meeting Shadow and discussing their same mission, followed shortly by Tolin and Quenlith. They all went to the Grandfather's House, with Tolin kicking the door in (Uh rude?).
+The four of you had slowly trickled into town, each deciding to stop at Stefan's Tavern. Aeris, Tolin, and Quenlith all met up, realizing they were here for the same reason. Shadow watched and overheard but decided to wait outside for the others. Aeris left first, meeting Shadow and discussing their same mission, followed shortly by Tolin and Quenlith. They all went to the Grandfather's House, with Tolin kicking the door in (Uh rude?).
 
 After a moment, the Grandfather came out, greeting each of you fondly, speaking to each about their lives since he has last seen them. Dinner was then served (after an hour of terrible cooking). Over dinner the Grandfather spoke of why he had called them: an adventure of his past he thought long done has begun to act up again, but it's still in its early signs. He spoke of ancient protections that kept something not of this world from getting in, and now they were again weakening. He tried to investigate, but he has had to come to the conclusion that he is simply too old to face this threat alone. 
 
@@ -15,8 +15,8 @@ The name is Aeris, not Aegis
 Note: the other two didn't have the greatest chance to interact, as Tolin and Shadow bickered back and forth a lot. 
 
 Aeris: Maintained his distance, was generally quiet and less familial with everyone, as he met them for the first time. 
-Quenlith: Also didn't talk much, but her interactions was that of loyalty with to Grandfather. Was also very conscious of his elderly state
-Shadow: Was very friendly with the Grandfather, on more than one occasion, giving him a hug. Was very interested in listening to him 
+Quenlith: Also didn't talk much, but her interactions was that of loyalty with to Grandfather. Was also very conscious of his elderly state.
+Shadow: Was very friendly with the Grandfather, on more than one occasion, giving him a hug. Was very interested in listening to him.
 Tolin: The interrupter and immature one. She interrupted the Grandfather with rude comments, always one to speak her mind. She clearly is attached to the Grandfather, in her own way (being rude) she displayed general rebellion against him, but also conformed, and yet was very clear on not allowing him to strain his old body. 
 
 **Quick Summary**: 
