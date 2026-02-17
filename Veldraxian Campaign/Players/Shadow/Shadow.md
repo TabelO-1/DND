@@ -13,7 +13,7 @@ Ultimately after a few months, the Grandfather suggested Shadow go to the Monast
 
 Alignment: Was Neutral Evil, now Lawful Neutral.
 
-Characteristics: Male Tabaxi, Age ~40
+Characteristics: Male Tabaxi, Age ~40. Based on a Gray Tabby. 6'2"
 
 Notes: 
 

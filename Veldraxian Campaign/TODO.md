@@ -1,0 +1,1 @@
+ - Map scale and distance

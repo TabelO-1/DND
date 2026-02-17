@@ -1,4 +1,4 @@
-GM Summary — The River Event
+DM Summary — The River Event
 
 What the Event Was
 
@@ -38,6 +38,6 @@ Within months, all three former criminals were gathered under the Grandfather’
 
 None of them ever spoke openly about the river again. Each carries a different truth about that night, none of them complete. For the Grandfather, it was the last time he acted openly against the kingdom’s criminal underworld. For the others, it was the moment their old lives ended, not by choice, but by collision.
 
-GM Use
+DM Use
 
 The River Event is a shared, unstable memory. It can resurface through old enemies, imprisoned associates, unresolved grudges, or the discovery of who truly hired whom. If the truth of Tolin’s lost shipment ever comes to light, it has the potential to fracture trust within the party or deepen it, depending on how forgiveness is earned.

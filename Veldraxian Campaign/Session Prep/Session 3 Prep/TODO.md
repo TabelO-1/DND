@@ -1,1 +1,2 @@
-Print out a copy of Shelby's Character Backstory and attach it to her character sheet.
+Fill out InfoToFollow for Head Monk for contacting Arthur
+Give ideas to TJ on how to play his scholarly character
