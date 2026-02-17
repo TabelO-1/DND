@@ -6,7 +6,7 @@ SISTER: Puzzles, Roleplay. Stefan the Bartender
 
 ARTHUR: Roleplay and combat design, abilities into roleplay
 
-BOTH: Character Dialogue and Descriptive Narritve
+BOTH: Character Dialogue and Descriptive Narrative
 
 TONE: Situational Awareness. Comedic and Serious
 

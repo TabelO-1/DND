@@ -1,0 +1,1 @@
+A small village no larger than Greenrest. Few people come this way, mostly local traffic to and from Greenwatch Crossing. The Tavern is owned by Travis and his wife Silva.
