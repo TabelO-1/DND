@@ -1,0 +1,17 @@
+# Session Three
+
+Following the goblin ambush, the party reconvened after Shadow chased down that poor goblin, and for a brief moment lingered there in the center of the Canyon. Quenlith idly plucked at her bowstring as though attempting to convince everyone that her earlier poor aim had been the weapon’s fault rather than her own. After an inconclusive investigation of the Goblin's whereabouts by Aeris, the party continued north and arrived during the evening at Greenwatch Crossing, a modest walled town specializing in the timber trade. At the southern gate, the guards questioned you about the road, and when informed that you had encountered and dealt with some, the Older Guard informed you that the Town Guard had been planning to send an expedition to clear the Goblin Camp, and suggested you visit the Greenwatch Adventurer's Guild to see it.
+
+After being allowed entry, the party spent time settling into town, Quenlith found a nice well with admittedly terrible water, but it was considerably better than Stefan's Alcohol. Shadow visited the Guildhall and learned about registering as an Adventuring Party. Meanwhile Aeris secured lodging at the Traveler's Inn while Tolin secured her dinner.
+
+When they all gathered, Shadow would reveal that in the morning, they all had to come to the Guildhall to register as an Adventuring Party, and that they would need to choose a name and party leader. With Dissent from Tolin, Shadow would be the Party Leader. And despite Tolin's insistence on having "Squirel" in the name, in homage to the Grandfather's former party, the Gilded Sparrows, the name "**The Sparrow Fledglings**" was chosen. Though Shadow did say the party could later discuss changing the name to include "Squirel".
+
+In the morning, after a breakfast, and awaking Tolin via stealing Gary (The Squirel) and being carried, literally, kicking and screaming the way there. The Party formally registered as, after paying the registration fee the Guild Clerk (Sabrina) had conviently not mentioned earlier. Registration would take one day to clear, and tomorrow everyone would recieve a guildcard.
+
+While waiting out the day, each member pursued their own interests. Tolin, after stealing Quenlith's Bow, had hoped to capture a bird with it and demonstrated an alarm inability to understand the most basic functioning. Quenlith observed those struggles with amused patience. Aeris spent some time ordering a set of arrow tips from the local smithy before quietly reading one of the books the Grandfather had allowed him to depart with. Shadow spent the day investigating the available quests they could take the following day once their registration became complete. 
+
+A job to escort a Merchant north to Stonebridge, the Guard's Commission to aid in finding and clearing the Goblin Camp somewhere south, and clearing some wolves from where the Timberyard cut trees to the Western Forest. Shadow discussed these options with the party at that night's dinner before the party turned in.
+
+The session then ends, with our next session starting the following morning, after being issued their Guild Cards, steel cards bearing the party's name, their rank (Provisional), and the names of each member.
+
+### DM Notes:
