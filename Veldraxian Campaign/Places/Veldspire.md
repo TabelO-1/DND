@@ -1,0 +1,2 @@
+"During any visit to Veldspire, it is best to have your bows well practiced."
+The Nobles will expect all to bow as they pass through, and if the King should appear, not doing so will result in an execution.

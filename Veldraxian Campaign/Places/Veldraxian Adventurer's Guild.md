@@ -2,27 +2,14 @@
 
 Renown System in use: DM's Guide page 22.
 
-# Renown Ranks:
-
 ## Prestige Ranks:
 
-(S+): Platinum Rank
-(S): Gold Rank
-(A): Silver Rank 
-(B): Iron Rank
-(C): Bronze Rank
-(D): Copper Rank
-(E): Provisional Rank
+(S+): Platinum Rank, 10000 Renown
+(S): Gold Rank, 1000 Renown
+(A): Silver Rank, 250 Renown 
+(B): Iron Rank, 100 Renown
+(C): Bronze Rank, 50 Renown
+(D): Copper Rank, 10 Renown
+(E): Provisional Rank, 0 Renown
 
 Guild Missions or other recognized commissions increase Prestige Ranks
-
-## Guild Ranks:
-
-Mythic Rank
-Kingdom Rank
-Provincial Rank
-Regional Rank
-Local Rank
-Town Rank
-
-Missions that involve a leaving a certain area will increase Guild Ranks
