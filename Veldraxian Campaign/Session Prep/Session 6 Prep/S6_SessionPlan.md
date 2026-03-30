@@ -4,9 +4,9 @@ The Party slowly convened back in the Adventurer's Guild after exploring the tow
 
 *Allow party to discuss jobs*
 
-When they appear to be taking one: Novadia Walks in.
+THEN:
 
-She wanna join. --> Let them do that.
+"As you are in the middle of this discussion you hear a sudden noise from behind you and as you all turn around you see a young blue/purple female dragonborn sprint across the room and stopping before you."
 
 ### Jobs
 
