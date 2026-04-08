@@ -12,3 +12,4 @@ Head Monk Contact: Info about the Ancient Seals
 Count Arnold Subplot: Human Trafficking / Slaves
 Grandfather's Contact
 The Bronze Dragon --> Iron Class Adventuring Party that may be able to assist the party in learning.
+Aeris' Scholarly Contact: Introduce hints from him to follow

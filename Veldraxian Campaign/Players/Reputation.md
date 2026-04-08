@@ -1,8 +1,12 @@
-Guild Renown: **3**
+Guild Renown: **6**
 Completed Quest: Rennic Vale Escort +2
 Completed Side Quest: Aid Broken Down Travelers: +1
+Completed Job Board Quest: Purchase Apple Barrels +3
 
 Guild Rank: Provisional 3/10 Renown Required
+
+Ilhert Merchant Guild: Reputation: **2**
+Completed Quest: Purchase Apple Barrels +2
 
 General Rule:
 Level Two Increases
