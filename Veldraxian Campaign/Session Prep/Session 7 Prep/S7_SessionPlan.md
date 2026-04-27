@@ -1,3 +1,5 @@
+**Happens after Assasination**
+May end up being a next session plan.
 # Opening
 
 "Stonebridge, as always, is awake. The Merchant's Sector is busy, carts moving through the roads, people moving through the street to their destinations throughout the city."
