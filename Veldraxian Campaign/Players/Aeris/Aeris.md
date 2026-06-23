@@ -19,6 +19,8 @@ Notes:
 
 Session 1:
 
+Session 7: Killed by the Brill Gang, no longer an active character
+
 #
 
 ### Information Told:
