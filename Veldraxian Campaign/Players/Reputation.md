@@ -3,10 +3,13 @@ Completed Quest: Rennic Vale Escort +2
 Completed Side Quest: Aid Broken Down Travelers: +1
 Completed Job Board Quest: Purchase Apple Barrels +3
 
-Guild Rank: Provisional 3/10 Renown Required
+Guild Rank: Provisional 6/10 Renown Required
 
 Ilhert Merchant Guild: Reputation: **2**
 Completed Quest: Purchase Apple Barrels +2
+
+Stonebridge: Reputation: **10**
++10 Taken Down Brill Gang
 
 General Rule:
 Level Two Increases
