@@ -36,3 +36,14 @@ The is one major town in the region, **Greenwatch Crossing**. It is a town of a 
 **Greenrest**:
 
 Greenrest is a small village almost as far south as the road goes. The town farms and cuts timber year round for trade. The town is most well known for the Cherry Blossom in the town's square, having been planted there when the first generation made a claim on the land. Despite being a small town, the town has a tavern, known as *Stefan's Tavern*, which serves the worst alcohol you've ever had, but Stefan insists you'll grow to like it. Though known to few, a once renowned wizard (The Grandfather) lives in the town, his home part house, part wizard tower.
+
+**Currency:**
+The Kingdom of Veldraxi operates with a fairly standard currency system shared by many nations of the world.
+
+Copper Piece (CP): The lowest currency value. 10 Equates to One Silver Piece
+Silver Piece (SP): A fairly common form of money, used for transactions for day to day activities. 10 Equates to One Gold Piece
+Gold Piece (GP): A higher value currency, usually used for larger purchases or expensive items. 10 Equates to One Platinum Piece
+Platinum Piece (PP): A fairly rare currency value, usually used for bulk purchases or exceedingly expensive items. 10 Equates to One Royal Platinum Piece
+Royal Platinum Piece (RPP): An extremely rare currency, directly backed by the Royal Treasury for its value, with each bearing the King's Seal. The Kingdom makes very few of these, and they are typically used by the Noble Classes, Old Fortunes, or Royal Institutions.
+
+Electrum Piece (EP): Not a currency type issued by the Veldraxi Kingdom, however is more commonly used within the Elven Kingdom. Their value within the kingdom can fluctuate, but as a general rule of thumb, they are worth half a gold piece or five silver pieces.

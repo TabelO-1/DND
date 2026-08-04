@@ -106,9 +106,9 @@ Reading the Papers, you see three reports.
 
 **Silence in the Elderward**: Hunters north of Stonebridge report that larger wildlife has abandoned an entire stretch of the forest. Birds and animals alike have vanished. No carcasses, tracks of a predator, or obvious cause have been found. The forest is simply empty.
 
-**Hollowmere's Bear Problem**: Bears previously reported attacking livestock have moved dangerously close to the village, and several villagers have now been mauled. The animals normally remain within the Elderward, but something appears to be driving them outward.
+**Hollowmere's Bear Problem**: Bears previously reported attacking livestock have moved dangerously close to the village, and several villagers have now been mauled. The animals normally remain within the Elderward, but something appears to be driving them out.
 
-**The Crossroads**: Farmers surrounding the village report that their livestock refuse to leave their enclosures. Even when the gates are opened, the animals panic and retreat indoors.
+**The Crossroads**: Farmers surrounding the village report that their livestock refuse to leave their enclosures. Even when the gates are opened, the animals retreated indoors in a panic.
 
 "Individually, I'd call them peculiar. Together, they sound familiar."
 
