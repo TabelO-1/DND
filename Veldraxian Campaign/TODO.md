@@ -2,6 +2,7 @@ Fill out InfoToFollow for Head Monk for contacting Arthur
 design a banking system: Merchant Guilds/Advenutring Guild
 Fill out Stonebridge: Give the Players places to go.
 Magic Shops
+Finish Seals Adventuring Party
 
 REVIEW BEFORE EACH SESSION: Hints.Plot.Notes.md
 REVIEW AFTER EACH SESSION: Player Info Told

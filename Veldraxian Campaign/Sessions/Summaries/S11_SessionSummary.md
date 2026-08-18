@@ -55,7 +55,7 @@ Only after Shadow noticed him, did Marlo speak. "In three days, you've managed m
 
 He was paid to kill him. The instructions came through a messenger, they identified a bronze dragonborn staying at the tavern that night. The only memorable part was the payment.
 
-From beneath his cloak, he produced a Royal Platinum Coin and handed it to Shadow. Though legal currency, such coins were almost never used in ordinary trade. They were associated with aristocratic wealth, royal institutions, and ancient fortunes.
+From beneath his cloak, he produced a **Royal Platinum Coin** and handed it to Shadow. Though legal currency, such coins were almost never used in ordinary trade. They were associated with aristocratic wealth, royal institutions, and ancient fortunes.
 
 He told Shadow, "Someone with money wanted your friend dead. Real money. Whatever you do now, take this as your reason to leave me out of it." Shadow allowed him to go. Shadow and Quenlith briefly examined the coin, before the party returned to the Yellow Wyvern Tavern.
 
@@ -94,3 +94,22 @@ Between the three choices, Shadow was for the Crossroads, Nova for the Elderward
 ---
 
 The Party is now level three. Ask me any questions needed.
+
+
+
+
+Except:
+
+**Novadia Performs Actual Magic—Eventually**
+
+Throughout Session Eleven, Novadia repeatedly attempted to demonstrate her command of card magic, with increasingly questionable results.
+
+Her first opportunity came at the Yellow Wyvern during Shadow’s trip to the bathroom. Nova attempted the trick with Eldid, only for him to select a card already lying on the table from her solitaire game rather than one from the cards she intended him to choose. Through either misunderstanding or deliberate sabotage, Eldid successfully defeated the trick before it had properly begun.
+
+Nova later tried a more traditional “pick a card” trick with Marrek inside his office. The plan required her to discreetly peek at the selected card before presenting it with the dramatic question, “Is this your card?” Unfortunately, she peeked at the wrong card. Her final reveal was therefore delivered with complete confidence and absolutely no accuracy.
+
+Her greatest success came with Tolin. Nova arranged four cards on the floor and asked Tolin to identify the row and column containing her chosen card. Tolin provided the exact coordinates, Nova selected the card at that intersection, and triumphantly asked whether it was hers.
+
+It was.
+
+The method may have involved Tolin directly telling Nova where the card was, but the trick succeeded. After two earlier defeats at the hands of Eldid and basic card identification, Novadia the Mighty had finally performed genuine magic.
